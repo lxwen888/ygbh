@@ -19,7 +19,9 @@ J2,http://120.84.96.195:808/hls/86/index.m3u8
 J2,http://120.84.96.196:808/hls/86/index.m3u8 
 J2,http://120.84.96.221:808/hls/86/index.m3u8 
 J2,http://120.84.96.222:808/hls/86/index.m3u8 
-
+华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8 
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8 
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8 
 
 经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
 高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8

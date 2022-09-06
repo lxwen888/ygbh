@@ -181,7 +181,7 @@
 
 
 {"key": "Cokemv","name": "💄Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Auete","name": "💄Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "Auete","name": "💄Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //{"key":"mjxq_spider","name":"美剧(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 

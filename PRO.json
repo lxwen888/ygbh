@@ -59,7 +59,7 @@
         "searchable":1,
         "type":1
     }, 
-  {"key":"csp_DiDuan","name":"📺低端影视〔SP〕","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"csp_DiDuan","name":"📺低端影视〔SP〕","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0828.jar"},
 {"key": "神马影院","name": "🦓神马影院〔SP〕","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
    
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/LIBVIO.json"},

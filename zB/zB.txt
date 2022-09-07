@@ -19,6 +19,7 @@ J2,http://120.84.96.195:808/hls/86/index.m3u8
 J2,http://120.84.96.196:808/hls/86/index.m3u8 
 J2,http://120.84.96.221:808/hls/86/index.m3u8 
 J2,http://120.84.96.222:808/hls/86/index.m3u8 
+香港有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8 
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8 
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8 

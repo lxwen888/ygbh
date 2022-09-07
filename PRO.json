@@ -200,7 +200,8 @@
 
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2735/%E6%96%97%E9%B1%BC0713.json?sign=Ihmy6E807CmsjDP6e4m6pOBr8ct5KtTIaOHJPOacBwE%3D%3A0"},
 
-{"key":"csp_xpath_huya","name":"🐯虎牙TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://share.nite07.com/api/v3/file/source/9651/%E8%99%8E%E7%89%990718.json?sign=JBnc47ILOahRWKVKb09Detkd7Y_rnk0RiqCof2q78HM%3D%3A0"},
+{"key":"csp_XYQBiu_虎牙直播","name":"🦷虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/%e8%99%8e%e7%89%99.json"},
+
 
 
 {"key":"csp_biubiu_特狗影视","name":"🐕特狗","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2754/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%860713.json?sign=pbBoKOrPAQnrXlyCj3sljeVg_2-oIQKVhrW0QBavDEo%3D%3A0"},

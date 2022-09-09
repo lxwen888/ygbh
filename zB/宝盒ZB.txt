@@ -5043,7 +5043,7 @@ Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 🎎｜VIP 直播资源3_5566,#genre#
 松視1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
 松視3,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
 潘朵拉粉紅,P2p://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
 潘朵拉完美台,P2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31

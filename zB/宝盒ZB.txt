@@ -103,14 +103,57 @@ MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
 
-星空卫视,http://50.7.220.74:8278/xingkong/playlist.m3u8?tid=m61d2d25a9adb&ct=18335&tsum=bc464e6fb89211029ad1b93ac62830aa
-星空卫视,http://120.84.96.71:808/hls/79/index.m3u8#http://113.64.147.77:808/hls/87/index.
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+民视,rtmp://59.124.75.150/sat/tv051
+台视,rtmp://59.124.75.150/sat/tv071
+中视,rtmp://59.124.75.150/sat/tv091
+华视,rtmp://59.124.75.150/sat/tv111
+民视,rtmp://219.80.97.25/sat/tv051
+台视,rtmp://219.80.97.25/sat/tv071
+中视,rtmp://219.80.97.25/sat/tv091
+民视,rtmp://59.124.75.138/sat/tv051
+民视,rtmp://59.124.75.157/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+台视,rtmp://59.124.75.157/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+中视,rtmp://59.124.75.157/sat/tv091
+华视,rtmp://59.124.75.138/sat/tv111
+华视,rtmp://59.124.75.157/sat/tv111
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
+TVBS新闻,rtmp://59.124.75.157/sat/tv551
+TVBS欢乐,rtmp://59.124.75.138/sat/tv421
+TVBS欢乐,rtmp://59.124.75.157/sat/tv421
+东森财经新闻,rtmp://59.124.75.150/sat/tv571
+东森新闻,http://61.219.170.95:18512/.m3u8
+中天新闻,http://61.219.170.95:18513/.m3u8
+台视,http://61.219.170.95:18543/.m3u8
+TVBS新闻,rtmp://59.124.75.150/sat/tv551
+TVBS欢乐,rtmp://59.124.75.150/sat/tv421
+東森超視,rtmp://59.124.75.138:1935/sat/tv331
+TVBS新聞,rtmp://59.124.75.150/sat/tv551
+TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
+TVBS新闻,rtmp://59.124.75.150:1935/sat/tv551
+TVBS欢乐,rtmp://59.124.75.150/sat/tv421
+TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
+緯來體育,rtmp://59.124.75.150:1935/sat/tv721
+緯來體育,rtmp://59.124.75.138:1935/sat/tv721
+台視@@15,rtmp://59.124.75.138/sat/tv071
+台視,rtmp://59.124.75.138:1935/sat/tv071
+台視,rtmp://59.124.75.150/sat/tv071
+緯來日本,rtmp://59.124.75.138:1935/sat/tv771
+緯來日本,rtmp://59.124.75.150:1935/sat/tv771
+緯來日本,rtmp://59.124.75.150/sat/tv771
+緯來日本,rtmp://59.124.75.150/sat//tv761
+緯來日本,rtmp://59.124.75.138/sat/tv771
+momo綜合台,rtmp://59.124.75.138:1935/sat/tv761
+MOMO綜合,rtmp://59.124.75.138/sat/tv761
+緯來育樂,rtmp://59.124.75.138/sat/tv721
+緯來育樂,rtmp://59.124.75.138/sat/tv701
+緯來育樂,rtmp://59.124.75.150/sat/tv701
+緯來育樂,rtmp://59.124.75.138:1935/sat/tv701
+ELTA體育3,rtmp://59.124.75.138/sat/md041
+eleven2,rtmp://59.124.75.150:1935/sat/tv741
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
 
 
 唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

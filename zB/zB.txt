@@ -20,12 +20,12 @@ J2,http://120.84.96.196:808/hls/86/index.m3u8
 J2,http://120.84.96.221:808/hls/86/index.m3u8 
 J2,http://120.84.96.222:808/hls/86/index.m3u8 
 香港有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8 
-华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8 
-华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8 
-HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-壹新闻,https://epg.pm/stream/bd2dab24d0cdea64b365eeda2b48d6b3bd1bd57bc1a721f925fdc5648908bda8.m3u8
+HBO家庭,https://pull-rtmp-l6.ixigua.com/live/9778559fc62f47ac6bf250c152f5fe93.flv
+TVB星河,https://pull-rtmp-l6.ixigua.com/live/5f2b837110a90c7b29117cb4779b30b9.flv
+TVB经典,https://pull-rtmp-l6.ixigua.com/live/cc0f0007de81cc57ca4271fbe5f10113.flv
+爆谷星影,https://pull-rtmp-l6.ixigua.com/live/89bf5803a19adaf4f94f699e62ca152b.flv
+HBO Hits,https://pull-rtmp-l6.ixigua.com/live/b9297abfbec6c042df2bd9192eb5b64c.flv
+HBO Signature,https://pull-rtmp-l6.ixigua.com/live/b11e443cb010d596f0cd8ddf9ea96274.flv 
 经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
 高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
 每日影院,http://beifeng.site:4000/udp/239.3.1.111:8001

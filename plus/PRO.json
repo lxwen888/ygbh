@@ -31,6 +31,16 @@
 {"key":"18","name":"🔞分割线—小撸怡情","type":0,"api":""},
 {"key":"12","name":"🔞分割线—大撸伤身","type":0,"api":""},
 {"key":"10","name":"🔞分割线—强撸灰飞烟灭","type":0,"api":""},
+{
+      "key": "csp_biubiu_羞园",
+      "name": "*🔞羞园",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "    {\r\n  \"name\": \"羞园\",\r\n  \"url\": \"http://yxy004.com\",\r\n  \"User\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36\",\r\n  \"直接播放\": \"1\",\r\n\"横图显示\": \"0\",\r\n  \"shouye\": \"1\",\r\n  \"fenlei\": \"肛交$/c/Anal-12/#日本肛$/?k=japanese+anal/#异族$/c/Interracial-27/#群交$/c/Gangbang-69/#成熟$/c/Mature-38/#中文$/lang/chinese/#女同$/c/Lesbian-26/#男同$/gay/#家庭乱伦$/c/Fucked_Up_Family-81/#拳交$/c/Fisting-165/#摄像头$/c/Cam_Porn-58/#亚洲$/c/Asian_Woman-32/\",\r\n  \"houzhui\": \"/\",\r\n  \"qishiye\": \"1\",\r\n  \"shifouercijiequ\": \"0\",\r\n  \"jiequqian\": \"空\",\r\n  \"jiequhou\": \"空\",\r\n  \"jiequshuzuqian\": \"class=\\\"thumb\\\">\",\r\n  \"jiequshuzuhou\": \"</script>\",\r\n  \"tupianqian\": \"data-src=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\",\r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\",\r\n  \"lianjiehou\": \"\\\"\",\r\n  \"sousuoqian\": \"/?k=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"/\"\r\n}"
+    },
 {"key":"csp_Xiangjiao","name":"*🔞new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/my_18spider.jar"},
 {"key":"csp_biubiu_香蕉视频","name":"*🔞香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e9%a6%99%e8%95%89%e8%a7%86%e9%a2%91.json"},
 {"key":"csp_biubiu_爱看影院","name":"*🔞爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e7%88%b1%e7%9c%8b%e5%bd%b1%e9%99%a2.json"},
@@ -117,16 +127,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
- {
-      "key": "csp_biubiu_羞园",
-      "name": "*🔞羞园",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "    {\r\n  \"name\": \"羞园\",\r\n  \"url\": \"http://yxy004.com\",\r\n  \"User\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36\",\r\n  \"直接播放\": \"1\",\r\n\"横图显示\": \"0\",\r\n  \"shouye\": \"1\",\r\n  \"fenlei\": \"肛交$/c/Anal-12/#日本肛$/?k=japanese+anal/#异族$/c/Interracial-27/#群交$/c/Gangbang-69/#成熟$/c/Mature-38/#中文$/lang/chinese/#女同$/c/Lesbian-26/#男同$/gay/#家庭乱伦$/c/Fucked_Up_Family-81/#拳交$/c/Fisting-165/#摄像头$/c/Cam_Porn-58/#亚洲$/c/Asian_Woman-32/\",\r\n  \"houzhui\": \"/\",\r\n  \"qishiye\": \"1\",\r\n  \"shifouercijiequ\": \"0\",\r\n  \"jiequqian\": \"空\",\r\n  \"jiequhou\": \"空\",\r\n  \"jiequshuzuqian\": \"class=\\\"thumb\\\">\",\r\n  \"jiequshuzuhou\": \"</script>\",\r\n  \"tupianqian\": \"data-src=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\",\r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\",\r\n  \"lianjiehou\": \"\\\"\",\r\n  \"sousuoqian\": \"/?k=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"/\"\r\n}"
-    },
+ 
 {"key":"*乐播资源","name":"*🔞乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*博天堂","name":"*🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"*环亚资源","name":"*🔞环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},

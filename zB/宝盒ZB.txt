@@ -4867,31 +4867,28 @@ Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 松視1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
 松視2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
 松視3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-潘朵拉粉紅,P2p://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
-潘朵拉完美台,P2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-HOT,P2p://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
-HAPPY,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
-驚豔台,P2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-香蕉台,P2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-極限台,P2p://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
-彩虹電影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-LOOK,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-K頻道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
-彩虹e台,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-ＶＥＮＵS,P2p://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
-做愛特教班,P2p://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
-奶奶按摩店,P2p://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
-AV女王,P2p://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
-人妻不倫,P2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
-水多多,P2p://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
-近親相姦,P2p://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
-彩虹通道,P2p://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
-PLAYBOY HD,P2p://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
-KMP 頻道,P2p://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
-午夜蓝,P2p://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
-櫻桃,P2p://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
-大學女援交妹,P2p://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
-做愛輸入,P2p://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
+彩虹e台,mitv://ns1.hellotvvod.com:9906/bd7382c76b88433d8722c26f67363e6b
+彩虹电影台,mitv://ns1.hellotvvod.com:9906/e0edd767a136470b8200e6e5c03900e8
+LOOK TV,mitv://ns1.hellotvvod.com:9906/e1abfbd511284620a5a8f38bd138f45f
+潘朵啦玩美台,mitv://ns1.hellotvvod.com:9906/233e084e1bc3498d97c0c588bc693491
+惊艳电影台,mitv://ns1.hellotvvod.com:9906/19233616c0a54a0a842a055fc8a27606
+松视1台,mitv://ns1.hellotvvod.com:9906/5c86b6d2e41a4b33949bc3253bd3659a
+松视2台,mitv://ns1.hellotvvod.com:9906/5da64f1f405840f39749725323546c8d
+PLAYBOY,mitv://ns1.hellotvvod.com:9906/1c23371ae43d4ccab637a0ae5d08af5b
+香蕉台,mitv://ns1.hellotvvod.com:9906/3a68ef5eb4444efdb58362ff97686789
+松视3台,mitv://ns1.hellotvvod.com:9906/c52b7d4217bb411a855a0a1372a7840a
+JStar极限台,mitv://ns1.hellotvvod.com:9906/7f05bb13ae114cfebc1b79df6681b0ef
+HAPPY,mitv://ns1.hellotvvod.com:9906/5bc6b29a6e6d454b8fa592aea83222d5
+松视1台,mitv://ns1.hellotvvod.com:9906/5c86b6d2e41a4b33949bc3253bd3659a
+松视1台,mitv://ns1.hellotvvod.com:9906/5c86b6d2e41a4b33949bc3253bd3659a
+松视1台,mitv://ns1.hellotvvod.com:9906/5c86b6d2e41a4b33949bc3253bd3659a
+松视2台,mitv://ns1.hellotvvod.com:9906/5da64f1f405840f39749725323546c8d
+松视2台,mitv://ns1.hellotvvod.com:9906/5da64f1f405840f39749725323546c8d
+松视2台,mitv://ns1.hellotvvod.com:9906/5da64f1f405840f39749725323546c8d
+松视3台,mitv://ns1.hellotvvod.com:9906/c52b7d4217bb411a855a0a1372a7840a
+松视3台,mitv://ns1.hellotvvod.com:9906/c52b7d4217bb411a855a0a1372a7840a
+K频道,mitv://ns1.hellotvvod.com:9906/a7a0b10d12ed4c49bb824983f506b91a
+
 🎎｜VIP 91高清资源_5566,#genre#
 时长:28:19-艳母 第1话,https://ss.rongliren.com/api/video/m3u8?id=13532&admin=1
 时长:27:35-艳母 第2话,https://ss.rongliren.com/api/video/m3u8?id=13530&admin=1

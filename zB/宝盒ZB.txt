@@ -3722,43 +3722,7 @@ WEN鞋评+WEN鞋评：阿马鲁实战,http://111.62.156.15/tx.flv.huya.com/src/1
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 于田汉语,http://202.107.188.140:5002/yutianhy_hdcq-1.m3u8?token=guoziyun?zxinjd
 
-🏟️青海,#genre#
-青海,http://39.135.32.10:6610/000000001000/SD-4000k-576P-qinghaistv/1.m3u8?IASHttpSessionId=OTT?zxinjd
-安多卫视,http://39.134.19.135/PLTV/88888888/224/3221225875/1.m3u8?zqinghd
-安多卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8?zqinghd
-西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
-西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-玉树新闻,http://stream.ysbtv.net/1/sd/live.m3u8?zqinghd
-海南州藏语,http://live.hnzzzzzdst.com/channel1/sd/live.m3u8?zqinghd
-海西州综合,http://stream.haixitv.cn/1/sd/live.m3u8?zqinghd
-黄南州综合,http://111.12.218.74:8081/live/ch0.m3u8?zqinghd
-湟源综合,http://livecdn.dmqhyadmin.com/hls/xjhuangyuan.m3u8?zqinghd
-德令哈综合,http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8?zqinghd
-门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
-祁连综合,http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8?zqinghd
-贵南综合,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd
-化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8?zqinghd
-民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
 
-🦢🦜宁夏,#genre#
-宁夏,http://39.135.32.10:6610/000000001000/SD-4000k-576P-ningxiastv/1.m3u8?IASHttpSessionId=OTT?zningxd
-宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6;{User-Agent@0151?zningxd}
-宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1;{User-Agent@0151?zningxd}
-银川生活,http://www.ycen.com.cn/ycxw/sd/live.m3u8?zningxd
-银川公共,http://www.ycen.com.cn/ycgg/sd/live.m3u8?zningxd
-银川文体,http://www.ycen.com.cn/ycwt/sd/live.m3u8?zningxd
-吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
-吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
-中宁综合,https://hls.ningxiahuangheyun.com/live/znzh.m3u8?zningxd
-
-🐿️🐿️海南,#genre#
-海南,http://39.135.32.10:6610/000000001000/lvyoustv/1.m3u8?IASHttpSessionId=OTT?zhaind
-三沙卫视,http://stream3.hnntv.cn/ssws/sd/live.m3u8?_upt=75a376881649866476?zhaind
-三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8?zhaind
-中国交通海南,http://tv.lanjingfm.com/cctbn/hainan.m3u8?zhaind
-海口新闻,http://p2.weizan.cn/11763520/218605596729758130/live.m3u8
-海口经济,http://p2.weizan.cn/11763520/862975416677893268/live.m3u8
-海口生活,http://p2.weizan.cn/11763520/437504960339513614/live.m3u8
 
 🦀吉林,#genre#
 吉林,http://39.135.32.10:6610/000000001000/jilinstv/1.m3u8?IASHttpSessionId=OTT?zjild
@@ -3858,14 +3822,7 @@ WEN鞋评+WEN鞋评：阿马鲁实战,http://111.62.156.15/tx.flv.huya.com/src/1
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
-🦗🦟西赞藏,#genre#
-西赞藏,http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zxicd
-西赞藏语,http://39.135.32.6:6610/PLTV/77777777/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zxicd
-西赞藏语,http://111.40.196.9/PLTV/88888888/224/3221225676/index.m3u8?zxicd
-西赞藏影文化,rtmp://113.62.170.99:1935/live/tvchannel2?zxicd
-拉萨汉语综合,https://live.lasatv.cn/lasatv-zh/zh720x576.m3u8?auth_key=1647761540-0-0-bf3056285e1d6d2d8c46ed8088b060ec;{User-Agent@0151?zxicd}
-拉萨藏语综合,https://live.lasatv.cn/lasatv-zyzh/zyzh720x576.m3u8?auth_key=1647761466-0-0-71219c79c1f0953a5338484ebe4e9a78;{User-Agent@0151?zxicd}
-拉萨文旅频道,https://live.lasatv.cn/lasatv-whly/whly720x576.m3u8?auth_key=1647761585-0-0-1a613f8be81d1342c6a9415d6b20f8b3;{User-Agent@0151?zxicd}
+
 
 🐾🦚世界,#genre#
 亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -4018,8 +3975,12 @@ EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
 dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
-🇨🇳｜月光宝盒,#genre#
-公众号月光宝盒BOX后台回复VIP获取密码, http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+💞公众号,#genre#
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+月光宝盒BOX,#genre#
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+💞获取蜜马,#genre#
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 🎎｜VIP高清秒播1_6666,#genre#
 时长:40:51-91CM-243_肉食女神的旅拍淫记-高梨遥香,https://ss.rongliren.com/api/video/m3u8?id=12863&admin=1
 时长:42:15-91CM_241_网红中国零食初体验-小林纱织,https://ss.rongliren.com/api/video/m3u8?id=12829&admin=1

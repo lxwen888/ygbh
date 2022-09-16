@@ -237,7 +237,7 @@
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"18","name":"🔞🈲分割线——————","type":0,"api":""},
 {"key":"12","name":"🔞分割线——————","type":0,"api":""},
-{"key":"dr_玩偶姐姐","name":"*🔞玩偶姐姐","type":1,"api":"http://cms.nokia.press/vod/","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"dr_玩偶姐姐","name":"*🔞玩偶姐姐","type":1,"api":"http://cms.nokia.press/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Xiangjiao","name":"*🔞new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/my_18spider.jar"},
 {"key":"csp_biubiu_香蕉视频","name":"*🔞香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e9%a6%99%e8%95%89%e8%a7%86%e9%a2%91.json"},
 {"key":"csp_biubiu_爱看影院","name":"*🔞爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e7%88%b1%e7%9c%8b%e5%bd%b1%e9%99%a2.json"},

@@ -4975,9 +4975,7 @@ HAPPY,mitv://ns1.hellotvvod.com:9906/5bc6b29a6e6d454b8fa592aea83222d5
 松视3台,mitv://ns1.hellotvvod.com:9906/c52b7d4217bb411a855a0a1372a7840a
 松视3台,mitv://ns1.hellotvvod.com:9906/c52b7d4217bb411a855a0a1372a7840a
 K频道,mitv://ns1.hellotvvod.com:9906/a7a0b10d12ed4c49bb824983f506b91a
-松視1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+
 K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
 时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8

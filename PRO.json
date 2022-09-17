@@ -71,13 +71,13 @@
 //{"key": "Kunyu77","name": "🌈公众号：月光宝盒BOX","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
             "key": "dr_喵喵",
-            "name": "喵喵(道长)",
+            "name": "🎞️喵喵影视",
             "type": 1,
             "api": "http://52.78.50.140:50217/vod?rule=喵喵",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-       "jar":"http://52.78.50.140:50217/liveslib" },
+       "jar":"https://agit.ai/guot54/ygbh/src/commit/ec14f1d3a28aaaf2ac06b956866347c06599f16a/JAR/mm.jar" },
       
  //{"key":"csp_Tkys","name":"🐞天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/33101/%E5%A4%A9%E7%A9%BA.jar?sign=_xLvE5iFrkB1VjxQncWKD0tjAE9oPfyNtcn6IAs7iHI%3D%3A0"},       
  //{"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},       

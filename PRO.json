@@ -160,7 +160,15 @@
 //{"key": "演唱会","name": "月光演唱会","type": 3,"api": "csp_Bilyc","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/23197/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90716.json?sign=sd8UCZRLgG3kR4GIV9bFKvqbGe8XjllrHF5nn0nNp_I%3D%3A0"},
 
 
-
+{
+            "key": "dr_喵喵",
+            "name": "🎑喵喵",
+            "type": 1,
+            "api": "http://52.78.50.140:50217/vod?rule=喵喵",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0
+        },
 {"key":"csp_biubiu_在线之家","name":" 🏠在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2697/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json?sign=vI4zw-oEscJ0lhTI8ckSwQ5QUaJZOw16YMdsG-wVmtU%3D%3A0"},
 {"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力〔XP〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXP/音范丝磁力.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
 

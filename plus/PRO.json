@@ -39,7 +39,7 @@
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-       "jar":"https://agit.ai/guot54/ygbh/src/commit/ec14f1d3a28aaaf2ac06b956866347c06599f16a/JAR/mm.jar" },
+       "jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/mm.jar" },
       
 {"key": "csp_xpath_lenxitv","name": "*🔞冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/lenxi.json"},   
 {"key":"csp_Xiangjiao","name":"*🔞new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/my_18spider.jar"},

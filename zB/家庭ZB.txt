@@ -460,6 +460,46 @@ Hands Up,P2p://ns1.hellotvvod.com:9906/deab003089244038bcff853c11f9806e
 亚洲剧台,P2p://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
 功夫台,P2p://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
 爆谷台,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
+🎑晴天电影,#genre#
+CCTV6,P2p://ns1.hellotvvod.com:9906/12cbd1f4ae6145baace7a055fd1f7b20
+天映频道,P2p://ns1.hellotvvod.com:9906/4e8ab40b90c2435997c24c1cfb13e05e
+天映经典,P2p://ns1.hellotvvod.com:9906/470cd03d80584abaa000dc201604ca27
+tvN Movies HD,P2p://ns1.hellotvvod.com:9906/9b3ba26f523643acb722559371c793fa
+HKC电影台,P2p://ns1.hellotvvod.com:9906/3c0eb2fd7f0c4c8ea4c2ab55408bb52f
+凤凰电影台,P2p://ns1.hellotvvod.com:9906/6230f02461f848aa90f08ba6fd8b2a8f
+卫视电影台,P2p://ns1.hellotvvod.com:9906/957901fc9a254dbb91227829d9b995c7
+东森电影台,P2p://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
+纬来电影台,P2p://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
+龙祥电影,P2p://ns1.hellotvvod.com:9906/85ea4346fcd441d99a3f06bbe0491f62
+HBO,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
+东森洋片台,P2p://ns1.hellotvvod.com:9906/186ead8f2f664bebba3dea7945a8b1e2
+AXN,P2p://ns1.hellotvvod.com:9906/3d43beba53b54131ad10b2f8a02d3f47
+好莱坞电影台,P2p://ns1.hellotvvod.com:9906/fd41404f169f4a41886551ca8fc022cc
+CINEMAX,P2p://ns1.hellotvvod.com:9906/8ef5dc97e25645be8d4e303cb84b15e1
+纬来育乐台,P2p://ns1.hellotvvod.com:9906/081ded65dfb345cb993f1d63b454341e
+HBO强档巨献,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
+HBO原创巨献,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
+美亚电影台HD,P2p://ns1.hellotvvod.com:9906/5bcc6ad3465c48d2b9ca0fee348095fc
+龙华电影,P2p://ns1.hellotvvod.com:9906/5eae0178be844ea9b1df4e8764bb9fd9
+星卫HD电影台,P2p://ns1.hellotvvod.com:9906/954d7884e53743c1b086dabec700f77f
+靖天映画,P2p://ns1.hellotvvod.com:9906/a34a42ed14174770b0c9e38248b74fe7
+靖天电影台,P2p://ns1.hellotvvod.com:9906/67ebfadc889a4e6d921a3dac4c60a13e
+WARNER TV,P2p://ns1.hellotvvod.com:9906/4a07915cd04545bc822639cc203446a6
+Star Movies HD,P2p://ns1.hellotvvod.com:9906/193db37396de436fac5c57fcb5314978
+AMC最爱电影,P2p://ns1.hellotvvod.com:9906/e09586d5be6844b1844aad833297dd40
+HBO Family,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
+CatchPlay电影台,P2p://ns1.hellotvvod.com:9906/62c7b91ecaba4ff7b6413f1d3016d11a
+CinemaWorld,P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
+壹电视电影台,P2p://ns1.hellotvvod.com:9906/7a746efb886845d0aa5be759581bd440
+采昌影剧台,P2p://ns1.hellotvvod.com:9906/f79e88a824034e0d9619d01cd6589945
+BOO,P2p://ns1.hellotvvod.com:9906/432be11f4eac4e238d2cd25d64c165c9
+Thrill,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
+爆谷星影台,P2p://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
+HITS Movies,P2p://ns1.hellotvvod.com:9906/a598c973264e4cb7939b7e0f335cb027
+SHOWCASE MOVIES,P2p://ns1.hellotvvod.com:9906/75c18dc987de4060bb992f13a21af8e2
+影迷数位电影台,P2p://ns1.hellotvvod.com:9906/645c997ba91c492babe0f56dfba3853b
+美亚电影台(粤语),P2p://ns1.hellotvvod.com:9906/6260802bc14243bd98a9c0be6e349725
+爆谷台,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
 
 🎈央视高清,#genre#
 CCTV-1综合高清,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226118/iptv65795.smil

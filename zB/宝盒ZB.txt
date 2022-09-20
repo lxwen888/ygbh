@@ -5085,16 +5085,8 @@ EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
 Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
 PinkoClub,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
 PinkoClub,http://93.152.174.144:4000/play/pinkotv/index.m3u8
-PinkErotic1,http://54.36.123.36:8080/PinkErotic1/index.m3u8
-PinkErotic2,http://54.36.123.36:8080/PinkErotic2/index.m3u8
-PinkErotic3,http://54.36.123.36:8080/PinkErotic3/index.m3u8
 PinkErotic3,http://195.154.185.179/xx_hot_tv/index.m3u8
-PinkErotic4,http://54.36.123.36:8080/PinkErotic4/index.m3u8
 PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
-PinkErotic5,http://54.36.123.36:8080/PinkErotic5/index.m3u8
-PinkErotic6,http://54.36.123.36:8080/PinkErotic6/index.m3u8
-PinkErotic7,http://54.36.123.36:8080/PinkErotic7/index.m3u8
-PinkErotic8,http://54.36.123.36:8080/PinkErotic8/index.m3u8
 ТНТHD,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
 СТСHD,http://myott.tv/stream/S8JK2Q2BVB/138.m3u8
 СТСLove,http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
@@ -5134,14 +5126,6 @@ ExstasyHD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 HustlerTV,http://78.83.191.18:8000/play/a078
 
 🎎｜VIP 直播资源2_6666,#genre#
-Viki (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
-Playboy TV,https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
-Honey TV (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/HoneyTV.m3u8
-Fashion TV ,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-Miami TV,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-Miami TV Latino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-Miami TV México ,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-Midnight (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
 Anal,http://live.redtraffic.xyz/anal.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8
 Asian,http://live.redtraffic.xyz/asian.m3u8
@@ -5213,6 +5197,15 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 Chrome,https://vod2t.xpanded.com/x3tv/index_wlan.m3u8
+
+Viki (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
+Playboy TV,https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
+Honey TV (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/HoneyTV.m3u8
+Fashion TV ,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+Miami TV,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV Latino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+Miami TV México ,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+Midnight (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
 
 🎎｜VIP 直播资源3_6666,#genre#
 彩虹e台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc

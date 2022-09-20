@@ -121,8 +121,7 @@ ELEVEN2,rtmp://59.124.75.138/sat/tv741
 好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 
 💞港澳台测试,#genre#
-1,P2p://ns1.hellotvvod.com:9906/a1e66402b91c4f79ad1bf733a7b9c73a
-2,P2p://ns1.hellotvvod.com:9906/3e21672ae8184fdca238df5058efbe67
+
  台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
  台视,rtmp://59.124.75.138/sat/tv071
  台视,rtmp://59.124.75.150/sat/tv071

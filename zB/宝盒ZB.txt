@@ -652,6 +652,23 @@ CCTV-8K,http://hms2864nc1972666629.live.aikan.miguvideo.com/wh7f454c46tw12828840
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+🌈【SiTV】,#genre#
+SiTV全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+SiTV极品汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+SiTV生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+SiTV新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
+SiTV劲爆体育,http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+SiTV魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+SiTV法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
+SiTV金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
+SiTV七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+iHOT-Y+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 
 👶少儿频道,#genre#
 南京少儿[1280*720],http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8

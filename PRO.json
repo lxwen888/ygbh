@@ -70,7 +70,15 @@
  //{"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},       
 //{"key":"csp_biubiu_AB影院","name":"🆎AB影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/30701/AB%E5%BD%B1%E9%99%A2.json?sign=809lbQ-G8IIdmmywH5q_BLf9UeV8tGn0YTY9vlAKJkE%3D%3A0"},
 //{"key":"csp_biubiu_米来影院","name":" 🌽米来影视","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/33104/%E7%B1%B3%E6%9D%A5%E5%BD%B1%E8%A7%86.json?sign=Q_NidTtoH845CV8LAB9EsiogLjjuCtFlCA01vqEkxxQ%3D%3A0"},
-
+{
+    "key": "csp_Tkys",
+    "name": "天空",
+    "type": 3,
+    "api": "csp_Tkys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    },
 //{"key":"9E03","name":"🌏宝盒9E03","type": 3, "api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"    },
 {"key": "csp_剧荒","name": "👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0828.jar"},
 {"key": "3EDY","name": "☘️3EDY〔SP〕","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},

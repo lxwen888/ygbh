@@ -5215,18 +5215,46 @@ Midnight (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/Midnigh
 
 🎎｜VIP 直播资源3_6666,#genre#
 彩虹e台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
+彩虹e台,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057 
+彩虹e台,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057 
+彩虹e台,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057 
 彩虹电影台,P2p://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
+彩虹电影台,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹电影台,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹电影台,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66 
 LOOK TV,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
 潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/b6b68f2c2c6444108c6125a04904a010
+潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31  
+潘朵朵粉色,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
+潘啦朵粉色,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9 
 惊艳成人电影台,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
 松视1台,P2p://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
+松视1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
+松视1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894 
 松视2台,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
+松视2,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
+松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b 
+热，mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
+热，p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6  
 PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
 香蕉台,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791 
 松视3台,P2p://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
+松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3 
+松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3 
 JStar极限台,P2p://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
+JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd 
 HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
+快乐，p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7 
+快乐，mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7 
 K,P2p://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
+K,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f 
+K,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f 
+K,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891fd 
+幻灯片电影,p2p://594.39.16.152:9906/6260e2b000004933172c99712568d815 
+看电视，mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd 
+看电视，p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd 
 K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
 时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8

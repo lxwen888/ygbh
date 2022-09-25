@@ -224,7 +224,7 @@ ELEVEN2,rtmp://59.124.75.138/sat/tv741
  澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
  澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
  澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
-🎑晴天台湾,#genre#
+🎑宝盒台湾,#genre#
 CNN,P2p://ns1.hellotvvod.com:9906/a7171d39ac4f440b9dfb0168f32fd955
 民视,P2p://ns1.hellotvvod.com:9906/afb3ce5ff4b343acbd4dcc18e779f000
 人间卫视,P2p://ns1.hellotvvod.com:9906/483f21e0289341acb5d31fcc07784c30
@@ -418,7 +418,7 @@ Travel Channel,P2p://ns1.hellotvvod.com:9906/281e96812a8f4acdbba71ad79c15fe95
 公视(备),P2p://ns1.hellotvvod.com:9906/a25ae6ff76874a558229e225d036bcb9
 东森新闻台(备),P2p://ns1.hellotvvod.com:9906/e911563d661b46258aa7f22df821c9e2
 镜新闻,P2p://ns1.hellotvvod.com:9906/dcef5b37902b49d0a5d98cd6dea90c59
-🎑晴天港澳,#genre#
+🎑宝盒港澳,#genre#
 港台電視31,P2p://ns1.hellotvvod.com:9906/531d238d4b754854925d387326c291a6
 港台电视32,P2p://ns1.hellotvvod.com:9906/44e81dd24fce43f8891b1b63ecd269fa
 香港开电视,P2p://ns1.hellotvvod.com:9906/1bef010967f94e4db79ddfc122295306
@@ -460,7 +460,7 @@ Hands Up,P2p://ns1.hellotvvod.com:9906/deab003089244038bcff853c11f9806e
 亚洲剧台,P2p://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
 功夫台,P2p://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
 爆谷台,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
-🎑晴天电影,#genre#
+🎑宝盒电影,#genre#
 
 天映频道,P2p://ns1.hellotvvod.com:9906/4e8ab40b90c2435997c24c1cfb13e05e
 天映经典,P2p://ns1.hellotvvod.com:9906/470cd03d80584abaa000dc201604ca27

@@ -24,7 +24,7 @@
     },
 //{"key":"csp_biubiu_yekong","name":"🥒夜空高清","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/yekong.json"}, 
     {"key":"csp_Kunyu77","name":"👒七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
-	{"key":"优众影视","name":"🚁优众影视〔SP〕","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
+	//{"key":"优众影视","name":"🚁优众影视〔SP〕","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 	{"key":"KanSJ_spider","name":"🐞看视界〔SP〕","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0828.jar"},
 	{"key":"csp_AppTT","name":"🐰图图影视〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://神器每日推送.tk/jar;md5;b36bd696d9b4ec61e31e86d52c2f2a3a"},
 	{"key":"csp_293","name":"🌈宝盒4K专区","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://52bsj.vip:81/api/v3/file/get/51808/dmtv.jar?sign=hwvRt9BhY8G50Jzp_fCO1qaMXOef7X3KEEq5ifplqyE%3D%3A0"},

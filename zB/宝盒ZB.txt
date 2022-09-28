@@ -538,23 +538,6 @@ CGTN俄语频道,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226739/100001000
 CGTN西班牙语频道,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226735/10000100000000060000000006582714_0.smil
 CGTN阿拉伯语频道,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226760/10000100000000060000000006582737_0.smil
 CGTN法语频道,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226737/10000100000000060000000006582717_0.smil
-CCTV1,P2p://ns1.hellotvvod.com:9906/f05a9b0e04e2405ca1d0bfa662e0642f
-CCTV2,P2p://ns1.hellotvvod.com:9906/e3db691c7dc54d9490c7f528ef18333f
-CCTV3,P2p://ns1.hellotvvod.com:9906/ff200967df174b499af34808ef97d65c
-CCTV4,P2p://ns1.hellotvvod.com:9906/817529082f324158bb223836c418412b
-CCTV5,P2p://ns1.hellotvvod.com:9906/89f3669a0a6647b48beba61d3d856de2
-CCTV5+,P2p://ns1.hellotvvod.com:9906/ce68e05328be401592fe7bb9b5cef888
-CCTV6,P2p://ns1.hellotvvod.com:9906/12cbd1f4ae6145baace7a055fd1f7b20
-CCTV7,P2p://ns1.hellotvvod.com:9906/d235bc3707704e1f8da88ef59c0601c0
-CCTV8,P2p://ns1.hellotvvod.com:9906/dfd5fb42ce33425bb0f8764ef4d47449
-CCTV9,P2p://ns1.hellotvvod.com:9906/4aeeb9547def4f3d9336d1cc03da1aa2
-CCTV10,P2p://ns1.hellotvvod.com:9906/ce0bf81d0b00428a9199812b4b805009
-CCTV11,P2p://ns1.hellotvvod.com:9906/002390c4f72f452696e0d4efd2e110e2
-CCTV12,P2p://ns1.hellotvvod.com:9906/41e70e73c5eb46a29e352cef6dc716ff
-CCTV13,P2p://ns1.hellotvvod.com:9906/a04a98b42a6e48c1b01f609fdab9238c
-CCTV14,P2p://ns1.hellotvvod.com:9906/7effc1a9b0db410d9828cb00b2e3c981
-CCTV15,P2p://ns1.hellotvvod.com:9906/65ce6e9c97dc4a4c90a362b001e89442
-CCTV16,P2p://ns1.hellotvvod.com:9906/d5e1e5f3c1794a28984f903e4c510cab
 
 🎈卫视高清,#genre#
 沈阳新闻综合,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226609/10000100000000060000000001122494_0.smil
@@ -594,14 +577,7 @@ MAX极速汽车,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226683/1000010000
 金色学堂,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226687/10000100000000060000000006385208_0.smil
 法治天地,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226714/10000100000000060000000006385213_0.smil
 都市剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226716/10000100000000060000000006385215_0.smil
-北京卫视,P2p://ns1.hellotvvod.com:9906/bd93e25efe4c4867bae614fea79ac99f
-天津卫视,P2p://ns1.hellotvvod.com:9906/cbfbcce91ce34f8faeff39807794da84
-河北卫视,P2p://ns1.hellotvvod.com:9906/719f81fe5d3b471a8aa2fd0435b34a9d
-黑龙江卫视,P2p://ns1.hellotvvod.com:9906/d33925dc64da433eb657997ad3a40144
-辽宁卫视,P2p://ns1.hellotvvod.com:9906/ebdf201fade44016984efb43e6e298b1
-东方卫视,P2p://ns1.hellotvvod.com:9906/f73c45267042469b8de8dec06e1f1da4
-江苏卫视,P2p://ns1.hellotvvod.com:9906/822b1f5ae7bb42af9d5d13449d2f1dea
-浙江卫视,P2p://ns1.hellotvvod.com:9906/2978f6df34ab491ba52f7c30c73e92a9
+
 江西卫视,P2p://ns1.hellotvvod.com:9906/3a30a6d337ae43ab91475b4d2556fc99
 山东卫视,P2p://ns1.hellotvvod.com:9906/3e71e722d9ee498faeae14f30b13a518
 东南卫视,P2p://ns1.hellotvvod.com:9906/93a282d16e814c338fdcb27c366d1aad

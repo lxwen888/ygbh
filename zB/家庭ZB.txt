@@ -233,282 +233,301 @@ ELEVEN2,rtmp://59.124.75.138/sat/tv741
  澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
  澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
 🎑宝盒台湾,#genre#
-CNN,P2p://ns1.hellotvvod.com:9906/a7171d39ac4f440b9dfb0168f32fd955
-民视,P2p://ns1.hellotvvod.com:9906/afb3ce5ff4b343acbd4dcc18e779f000
-人间卫视,P2p://ns1.hellotvvod.com:9906/483f21e0289341acb5d31fcc07784c30
-台视,P2p://ns1.hellotvvod.com:9906/0f373c618b594cf4a92c0c0d67b4ccff
-大爱,P2p://ns1.hellotvvod.com:9906/c5fb4cda3454476d93cb27e2e081250d
-中视,P2p://ns1.hellotvvod.com:9906/b8f6cdb0ade748139fa3e47b63111f78
-霹雳台湾台,P2p://ns1.hellotvvod.com:9906/ee07d44e6cdb4eb092248431e5582968
-华视,P2p://ns1.hellotvvod.com:9906/79e2eae39d1d49e695fa105bfa24a276
-公视,P2p://ns1.hellotvvod.com:9906/cceee06ef3194f1e8a030440d509f48d
-好消息,P2p://ns1.hellotvvod.com:9906/d0d6eb0d770c438f8fdd34e194d1bfa3
-原住民电视台,P2p://ns1.hellotvvod.com:9906/8c2bbdb7980e41799bb54fde5dda1a52
-客家电视台,P2p://ns1.hellotvvod.com:9906/be3ea9c28893494e9e4c2ad72fe06c3b
-国家地理频道,P2p://ns1.hellotvvod.com:9906/a1e66402b91c4f79ad1bf733a7b9c73a
-探索频道,P2p://ns1.hellotvvod.com:9906/77d7615bfb1b4387afa4764c9ba1d243
-TLC旅游生活,P2p://ns1.hellotvvod.com:9906/ee18f6daaf8a4ad8a0e6b996d0cd339a
-动物星球,P2p://ns1.hellotvvod.com:9906/5963414225414a6e9eeb820a7aa7e941
-CN卡通频道,P2p://ns1.hellotvvod.com:9906/d5a63b929ab64d5bae625a725ec09a42
-MOMO亲子台,P2p://ns1.hellotvvod.com:9906/f99539ee05024a3cb1e0531484d81e7e
-东森幼幼台,P2p://ns1.hellotvvod.com:9906/9839fadf1b99440eb80684c212a4fce4
-纬来综合台,P2p://ns1.hellotvvod.com:9906/f77305fbbfbb497794f380b50501134b
-八大第一台,P2p://ns1.hellotvvod.com:9906/062cfd1d662c4c568ac777badc14c9b3
-八大综合台,P2p://ns1.hellotvvod.com:9906/0a94d77edc744413945ee76857f4f5c5
-三立台湾台,P2p://ns1.hellotvvod.com:9906/eee1ccef6c7640eb8425a79922f01130
-三立都会台,P2p://ns1.hellotvvod.com:9906/d03bbc7d90054cefbc582ad12b0892e5
-东森综合台,P2p://ns1.hellotvvod.com:9906/5dc361f0f7954841ad9e408dc8946578
-超视,P2p://ns1.hellotvvod.com:9906/ae1f599e86014a88903b828b3782d35f
-中天综合台,P2p://ns1.hellotvvod.com:9906/39507c83c4c848118b2bc5e56b40f91b
-中天娱乐台,P2p://ns1.hellotvvod.com:9906/3e7d61af00504608a4a3dd6f86f15e92
-东森戏剧台,P2p://ns1.hellotvvod.com:9906/23728f7cf94f4813b4c11a5b1dbe2fb4
-八大戏剧台,P2p://ns1.hellotvvod.com:9906/5c9ac864d42e4b9cbe8a19b5d03a033f
-TVBS欢乐台,P2p://ns1.hellotvvod.com:9906/3d79ebc2dc894aa2855400677a2980bf
-纬来戏剧台,P2p://ns1.hellotvvod.com:9906/8981f0b5f0ba4961b045da328dcf1bb3
-高点综合台,P2p://ns1.hellotvvod.com:9906/4b371942e3d84f04997850fb09280df1
-BBC World News,P2p://ns1.hellotvvod.com:9906/a0dcc5edc0024e7fa6671bd35d9343a3
-Al Jazeera English,P2p://ns1.hellotvvod.com:9906/cc14d72d1d314132a334b4c69c400390
-CNBC,P2p://ns1.hellotvvod.com:9906/9608b700cab04408a0bfe272e625bc84
-Bloomberg TV,P2p://ns1.hellotvvod.com:9906/551733cee91344138c994f9576ac5022
-HITS,P2p://ns1.hellotvvod.com:9906/9ec305de0e2f4c4cbc9ab3702a4593ce
-壹电视新闻台,P2p://ns1.hellotvvod.com:9906/eb51f64a5fa247eeb9ee4f2b873a2538
-年代新闻,P2p://ns1.hellotvvod.com:9906/cb9b246b644045d9904bda7cff64700a
-东森新闻台,P2p://ns1.hellotvvod.com:9906/693511f4bc16414ea8542504561a9589
-中天新闻台,P2p://ns1.hellotvvod.com:9906/1024c12594c343b6af5dff660d002058
-民视新闻台,P2p://ns1.hellotvvod.com:9906/246f55af09774c22add9f50cb0427021
-三立新闻台,P2p://ns1.hellotvvod.com:9906/3afd0637dfc94845a4d9b812378b5740
-TVBS新闻台,P2p://ns1.hellotvvod.com:9906/8222cff9be4d45dea17dcf500d9b4db9
-TVBS,P2p://ns1.hellotvvod.com:9906/a7700e97b8c04fb4b2f6d2809d6d9b4a
-东森财经新闻台,P2p://ns1.hellotvvod.com:9906/5dedafdba29a427697c11401faef1490
-非凡新闻台,P2p://ns1.hellotvvod.com:9906/488033886cea43a0981601bca1285663
-卫视电影台,P2p://ns1.hellotvvod.com:9906/957901fc9a254dbb91227829d9b995c7
-东森电影台,P2p://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
-纬来电影台,P2p://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
-龙祥电影,P2p://ns1.hellotvvod.com:9906/85ea4346fcd441d99a3f06bbe0491f62
-HBO,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
-东森洋片台,P2p://ns1.hellotvvod.com:9906/186ead8f2f664bebba3dea7945a8b1e2
-AXN,P2p://ns1.hellotvvod.com:9906/3d43beba53b54131ad10b2f8a02d3f47
-好莱坞电影台,P2p://ns1.hellotvvod.com:9906/fd41404f169f4a41886551ca8fc022cc
-CINEMAX,P2p://ns1.hellotvvod.com:9906/8ef5dc97e25645be8d4e303cb84b15e1
-纬来育乐台,P2p://ns1.hellotvvod.com:9906/081ded65dfb345cb993f1d63b454341e
-纬来体育台,P2p://ns1.hellotvvod.com:9906/e86f0ed664fe4ad889461916ce915467
-ELEVEN体育1台,P2p://ns1.hellotvvod.com:9906/9d678fec5e9445a986c91c547c6765a8
-纬来日本,P2p://ns1.hellotvvod.com:9906/64def45a52cb41b3ae5d24b60bb99e71
-国兴卫视,P2p://ns1.hellotvvod.com:9906/4c4bce482094473686bc0cc586b68868
-FOX,P2p://ns1.hellotvvod.com:9906/6f5553f842d04b68954b8026f8b13854
-Z频道,P2p://ns1.hellotvvod.com:9906/12d9d0895a2848b29c19099b1c750927
-Animax,P2p://ns1.hellotvvod.com:9906/be96110bfb61424089f4799d0fd88e86
-尼克儿童频道,P2p://ns1.hellotvvod.com:9906/e1e9179db15f4e3fadab1522ef1d379e
-MTV,P2p://ns1.hellotvvod.com:9906/79e9d8fcc029433eb88c76ec79ea6b79
-八大娱乐台,P2p://ns1.hellotvvod.com:9906/ebc41118c53845e8a2dae499581582d6
-三立iNEWS,P2p://ns1.hellotvvod.com:9906/14356bac5127458c88f2b8ae99284250
-龙华偶像,P2p://ns1.hellotvvod.com:9906/fb6172bdc9fc46c382a819cf091639bf
-Arirang,P2p://ns1.hellotvvod.com:9906/efafb6156be7460aaaad33a7aa9ce539
-tvN,P2p://ns1.hellotvvod.com:9906/9e80ca9b9e0d4661bca9520c394a2802
-DW,P2p://ns1.hellotvvod.com:9906/883cce16471a44efa1302132b0c59e9c
-France24,P2p://ns1.hellotvvod.com:9906/59dca49463dc4dea91f3baf8be007a0b
-非凡商业台,P2p://ns1.hellotvvod.com:9906/6521b03877e5479d9982fcab29b2e4be
-公视3台,P2p://ns1.hellotvvod.com:9906/7ea63223e87b4dcf9768ae5544b719f6
-大爱2台,P2p://ns1.hellotvvod.com:9906/486faaf41b7e4885a09844539f61d777
-ELTV生活英语台,P2p://ns1.hellotvvod.com:9906/f40071188c164eddaa18b283c910b5ad
-靖洋卡通Nice Bingo,P2p://ns1.hellotvvod.com:9906/78f30d3e43e344eb8de57bf763ea50d0
-靖天卡通台,P2p://ns1.hellotvvod.com:9906/39eee8a27674442884d223ec6afefae1
-达文西频道,P2p://ns1.hellotvvod.com:9906/bb00229dd31f4b3bb0b6fb2a8b2ad317
-Nick Jr.,P2p://ns1.hellotvvod.com:9906/393171ef611a48b18958d9cf0061c56b
-国会频道1,P2p://ns1.hellotvvod.com:9906/8c00b3f2bbe9406ea0f85a4698998b54
-国会频道2,P2p://ns1.hellotvvod.com:9906/86ceec2d17384b5bbe76398630ebda70
-MTV Live,P2p://ns1.hellotvvod.com:9906/4a0e496288184ca49d069f89a67e9826
-Mezzo Live,P2p://ns1.hellotvvod.com:9906/f8a61ffd73dd4d6187e21ced96d9ee66
-CLASSICA 古典乐,P2p://ns1.hellotvvod.com:9906/928c0af1083944d9919da77c61efe853
-CMusic,P2p://ns1.hellotvvod.com:9906/d2336cf51faf42778558187f998c2799
-爱尔达体育1台(备),P2p://ns1.hellotvvod.com:9906/cbc86e6c986a4b4194c2514f9b5a8aeb
-爱尔达体育2台(备),P2p://ns1.hellotvvod.com:9906/00460e84f5ab4b8cbd639b859074cad6
-爱尔达体育3台(备),P2p://ns1.hellotvvod.com:9906/2ee5f37c2ade47c793e3ad06f5b2ada3
-TRACE Sport Stars,P2p://ns1.hellotvvod.com:9906/c78b0fd042644b16ae5a68a501d13b01
-博斯高球,P2p://ns1.hellotvvod.com:9906/68c0c771407646208c96f2a5edeebe46
-博斯高球二台,P2p://ns1.hellotvvod.com:9906/4f305af816b24109ba5a0d86bf3e712f
-博斯网球台,P2p://ns1.hellotvvod.com:9906/722a5b86aa9d4b1cbc6e349bf38f952d
-博斯魅力网,P2p://ns1.hellotvvod.com:9906/5c0000c6ebd44d5cb5cc1346f7a4ea58
-博斯无限台,P2p://ns1.hellotvvod.com:9906/0a729f4ebe304ac5880bcdc3fd735409
-博斯无限二台,P2p://ns1.hellotvvod.com:9906/5a71c4b7a7e44a77a60173a2159d9e86
-博斯运动,P2p://ns1.hellotvvod.com:9906/a9a6b20dc3304856a69219e12c07e74a
-ELEVEN体育2台,P2p://ns1.hellotvvod.com:9906/9adaaf14e25e44f0b35741e3df606f24
-智林体育台,P2p://ns1.hellotvvod.com:9906/508d33bf8ed0474aab39b650120509a6
-博斯运动二台,P2p://ns1.hellotvvod.com:9906/1336a84933714044a6a744ec73b15d8b
-OUTDOOR,P2p://ns1.hellotvvod.com:9906/9a6f44585efe44838ea189e41fb58ef6
-HBO强档巨献,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
-HBO原创巨献,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
-国家地理高画质野生频道,P2p://ns1.hellotvvod.com:9906/3e21672ae8184fdca238df5058efbe67
-BBC Earth,P2p://ns1.hellotvvod.com:9906/5607bc7a53bc421892cd3e58d2694365
-Discovery Asia,P2p://ns1.hellotvvod.com:9906/0db3e039c95a4b20ab854ad011158202
-Discovery科学频道,P2p://ns1.hellotvvod.com:9906/0da5263fa35e4e558deb22b305f1aeae
-DMAX,P2p://ns1.hellotvvod.com:9906/f83cd21b6aa24f03be5364d3fe94082f
-EVE,P2p://ns1.hellotvvod.com:9906/3ccc2eec25ab489db213f9fb46f26a12
-HISTORY 2,P2p://ns1.hellotvvod.com:9906/04b361440a4344648869f3613e2b1ba6
-历史频道,P2p://ns1.hellotvvod.com:9906/931e00e969394e5aa2abf5c29f0d0f79
-罪案侦缉频道,P2p://ns1.hellotvvod.com:9906/16f9d5b08cb64cdc9afd6da5848f3269
-BBC Lifestyle,P2p://ns1.hellotvvod.com:9906/77a1270e08bc44cebf20218a8615aa09
-LUXE TV,P2p://ns1.hellotvvod.com:9906/a2e0e3369be141cbb4a8aa47d5557535
-Lifetime,P2p://ns1.hellotvvod.com:9906/667e0e802f1f4924ba0e25742ad5d1bc
-KLT-靖天国际台,P2p://ns1.hellotvvod.com:9906/926da0c0eca94439af50e1c9d7252b91
-HGTV居家乐活频道,P2p://ns1.hellotvvod.com:9906/251ab533f96e4439ba04dca63a391f44
-Love Nature,P2p://ns1.hellotvvod.com:9906/d2714ed99bdf4e8b86f7d214a8f65c31
-美食星球,P2p://ns1.hellotvvod.com:9906/75e815a38180467ba76b1555f0da72c4
-亚洲美食频道,P2p://ns1.hellotvvod.com:9906/c9930babe39040ab9711dd2be99ff7f2
-亚洲旅游台,P2p://ns1.hellotvvod.com:9906/71717d13dcc743789fdbef6af23d5dbb
-EYE TV旅游台,P2p://ns1.hellotvvod.com:9906/3d77e3df645347b7bf8898b24021c22c
-时尚频道,P2p://ns1.hellotvvod.com:9906/9316712dabca4b2e8d54fc2b47835011
-好消息2台,P2p://ns1.hellotvvod.com:9906/6c4d0e53befc4f80aec0ba1cc8875906
-三立综合台,P2p://ns1.hellotvvod.com:9906/7d75845766c74122a00bb8db224eda09
-靖天资讯台,P2p://ns1.hellotvvod.com:9906/ab943bcadc7445e8a06750601dc1b037
-靖天综合台,P2p://ns1.hellotvvod.com:9906/68c5a9a71ff449b9b67851c8cec9569b
-靖天育乐台,P2p://ns1.hellotvvod.com:9906/182d978c052c4a4f913676854e33ae5d
-中视经典台,P2p://ns1.hellotvvod.com:9906/f1e89df30c8841e3bec492ab4f04620a
-中视菁采台,P2p://ns1.hellotvvod.com:9906/5b3a623b59cc4ca485164447a50a50d6
-TVBS精采台,P2p://ns1.hellotvvod.com:9906/5583d625f44c42a08c787762d439a928
-壹电视综合,P2p://ns1.hellotvvod.com:9906/89ca8b262c174d33bed9dd2d938187dd
-纬来精采,P2p://ns1.hellotvvod.com:9906/21d3d32898c044bc9c6a83bee8c37dde
-ETtoday综合台,P2p://ns1.hellotvvod.com:9906/d6d614ea121e47ec93126dfe055315dd
-民视第一台,P2p://ns1.hellotvvod.com:9906/f7c35013ac12407d924b8238ad5b7cad
-民视台湾台,P2p://ns1.hellotvvod.com:9906/1558bbb86bc34a718d5ac897dd0f235c
-Nice TV靖天欢乐台,P2p://ns1.hellotvvod.com:9906/12cb22df772f4f42a1dba2f82ebd1056
-八大优频道,P2p://ns1.hellotvvod.com:9906/4ca8194ba8504953aa46adfbb99f3d28
-三立戏剧台,P2p://ns1.hellotvvod.com:9906/dd38029edb0043ce8f85c2173180ee12
-龙华戏剧,P2p://ns1.hellotvvod.com:9906/f0d7603bf3c74bb0b7214439baa86ef1
-靖天戏剧台,P2p://ns1.hellotvvod.com:9906/be4aacb84df04c01ad4a6fd88db210f4
-靖洋戏剧台,P2p://ns1.hellotvvod.com:9906/9765cc4691bf436692e0d29017dc3303
-靖天日本台,P2p://ns1.hellotvvod.com:9906/aafd14ca753041a9a1dacd3114a1c3b0
-i-Fun动漫台,P2p://ns1.hellotvvod.com:9906/47962ba885fb4dde8358cda87716a1f7
-韩国娱乐台,P2p://ns1.hellotvvod.com:9906/0c017840018c450daba0e157b0f73f53
-星卫娱乐台,P2p://ns1.hellotvvod.com:9906/592e4a01bbdc4e51beffdcc1f0587651
-ROCK Extreme,P2p://ns1.hellotvvod.com:9906/3c3ed9c2c2034900851d9012a05a1398
-中视新闻台,P2p://ns1.hellotvvod.com:9906/49be27fa88b6416ab36e02d8a9087c3f
-寰宇新闻台,P2p://ns1.hellotvvod.com:9906/3daa7cb1507342abb8e7034205417060
-华视新闻,P2p://ns1.hellotvvod.com:9906/6f3829c6341e474d9c732b3efc9838f5
-NHK新闻资讯台,P2p://ns1.hellotvvod.com:9906/0f4208c1e14d4b36babb481f70323c02
-美亚电影台HD,P2p://ns1.hellotvvod.com:9906/5bcc6ad3465c48d2b9ca0fee348095fc
-龙华电影,P2p://ns1.hellotvvod.com:9906/5eae0178be844ea9b1df4e8764bb9fd9
-星卫HD电影台,P2p://ns1.hellotvvod.com:9906/954d7884e53743c1b086dabec700f77f
-靖天映画,P2p://ns1.hellotvvod.com:9906/a34a42ed14174770b0c9e38248b74fe7
-靖天电影台,P2p://ns1.hellotvvod.com:9906/67ebfadc889a4e6d921a3dac4c60a13e
-WARNER TV,P2p://ns1.hellotvvod.com:9906/4a07915cd04545bc822639cc203446a6
-Star Movies HD,P2p://ns1.hellotvvod.com:9906/193db37396de436fac5c57fcb5314978
-AMC最爱电影,P2p://ns1.hellotvvod.com:9906/e09586d5be6844b1844aad833297dd40
-HBO Family,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
-CatchPlay电影台,P2p://ns1.hellotvvod.com:9906/62c7b91ecaba4ff7b6413f1d3016d11a
-CinemaWorld,P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
-壹电视电影台,P2p://ns1.hellotvvod.com:9906/7a746efb886845d0aa5be759581bd440
-采昌影剧台,P2p://ns1.hellotvvod.com:9906/f79e88a824034e0d9619d01cd6589945
-佛卫慈悲台,P2p://ns1.hellotvvod.com:9906/7fdc8d852db64dcc9a058dd1447db027
-TV5Monde,P2p://ns1.hellotvvod.com:9906/20ea6d63c6234829b7e9af85fbd4e488
-Cbeebies,P2p://ns1.hellotvvod.com:9906/6e58dc42730f4f9f8636c44bea5fd0ee
-EYE TV戏剧台,P2p://ns1.hellotvvod.com:9906/4d2eb9123a624ab9a738f836c502e680
-台视新闻台,P2p://ns1.hellotvvod.com:9906/6a8627dfdd524e9b94d3bd389740a9d2
-寰宇新闻台湾台,P2p://ns1.hellotvvod.com:9906/48760fbeb15a4544885642389194a66b
-台视财经台,P2p://ns1.hellotvvod.com:9906/7b5a05c6ca934563926805f9c5ca9624
-纬来日本(备),P2p://ns1.hellotvvod.com:9906/0c0c2ab7ae03476a8c99374476a5c168
-爱尔达影剧台,P2p://ns1.hellotvvod.com:9906/ee93580d103f409abda16170eae56e90
-ROCK Entertainment,P2p://ns1.hellotvvod.com:9906/6f6e72d07da54aacb4a5bdc61836efb0
-民视(备),P2p://ns1.hellotvvod.com:9906/8db5dd51fcef4fd28aba192991efe776
-三立台湾台(备),P2p://ns1.hellotvvod.com:9906/13f7086bad674a4d9d91f6b14471b719
-Dreamworks,P2p://ns1.hellotvvod.com:9906/b4c3db6c3578467793f2c0aa54ef255d
-TV5MONDE Style 生活时尚,P2p://ns1.hellotvvod.com:9906/1c774c9d9274410693be8281b9d297dc
-Travel Channel,P2p://ns1.hellotvvod.com:9906/281e96812a8f4acdbba71ad79c15fe95
-影迷数位电影台,P2p://ns1.hellotvvod.com:9906/645c997ba91c492babe0f56dfba3853b
-卫视中文台,P2p://ns1.hellotvvod.com:9906/c7e0f6b12c2943889d6de8e0d81a91bf
-爱尔达体育1台,P2p://ns1.hellotvvod.com:9906/9962b1efe1c74e71abeabdd5e6fdbb94
-爱尔达体育2台,P2p://ns1.hellotvvod.com:9906/8066b1254d6f4ad697f4cb6e770ae917
-爱尔达体育3台,P2p://ns1.hellotvvod.com:9906/a850bfae95b24189b2df54fff49594a3
-台视(备),P2p://ns1.hellotvvod.com:9906/94c89846c7284cf29026952ecef5ff09
-大爱(备),P2p://ns1.hellotvvod.com:9906/c97e83e25df0488e988b810b34e8bf24
-中视(备),P2p://ns1.hellotvvod.com:9906/336f7c4bbca1439098b6d0e2f3f3ad0d
-华视(备),P2p://ns1.hellotvvod.com:9906/0c31946017884921bf3b2a86323128b1
-公视(备),P2p://ns1.hellotvvod.com:9906/a25ae6ff76874a558229e225d036bcb9
-东森新闻台(备),P2p://ns1.hellotvvod.com:9906/e911563d661b46258aa7f22df821c9e2
-镜新闻,P2p://ns1.hellotvvod.com:9906/dcef5b37902b49d0a5d98cd6dea90c59
-🎑宝盒港澳,#genre#
-港台電視31,P2p://ns1.hellotvvod.com:9906/531d238d4b754854925d387326c291a6
-港台电视32,P2p://ns1.hellotvvod.com:9906/44e81dd24fce43f8891b1b63ecd269fa
-香港开电视,P2p://ns1.hellotvvod.com:9906/1bef010967f94e4db79ddfc122295306
-﻿翡翠台(备),P2p://ns1.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
-J2,P2p://ns1.hellotvvod.com:9906/616e19fec3c0475db88cc23ddde228bc
-无线新闻台(备),P2p://ns1.hellotvvod.com:9906/aa6d38843405411aa2111b762923144f
-无线新闻台,P2p://ns1.hellotvvod.com:9906/1092b398d19b42c6806dc2ec04bb511e
-无线财经·资讯台,P2p://ns1.hellotvvod.com:9906/ba9474ae0fe14381be9237b3e85a700a
-ViuTVsix,P2p://ns1.hellotvvod.com:9906/1c1ce894e3ff45739b2badcd15e0ec0f
-ViuTV,P2p://ns1.hellotvvod.com:9906/98f64c66543c463ab99ea26e536338a4
-凤凰中文台,P2p://ns1.hellotvvod.com:9906/b2895b96b4434e06857c781cda31bc24
-凤凰资讯台,P2p://ns1.hellotvvod.com:9906/ec3f4649930b47e887b0d1265e581b01
-凤凰香港台,P2p://ns1.hellotvvod.com:9906/4d44dc63035642918f903ec03c1f2bfe
-TVB星河(粤),P2p://ns1.hellotvvod.com:9906/ca7f820f9e924ea1acde9f5b68b7e6ec
-阳光卫视,P2p://ns1.hellotvvod.com:9906/a5cd00b008ee4941a5577347951d694f
-澳门-MACAU,P2p://ns1.hellotvvod.com:9906/9935445e822d448f843687fd4e4e8adf
-澳门莲花,P2p://ns1.hellotvvod.com:9906/90bef3c0ca8b44ac821f79ec7daeb36f
-now新闻台,P2p://ns1.hellotvvod.com:9906/eeb32fe00b4e4ef6a6863dbea6f15b8d
-now直播台,P2p://ns1.hellotvvod.com:9906/7c06ed22c9454993a9717d749d409f48
-HKC电影台,P2p://ns1.hellotvvod.com:9906/3c0eb2fd7f0c4c8ea4c2ab55408bb52f
-凤凰电影台,P2p://ns1.hellotvvod.com:9906/6230f02461f848aa90f08ba6fd8b2a8f
-HKC新闻台,P2p://ns1.hellotvvod.com:9906/7af6dae4a30d47b68a72161534e9251a
-HKC财经资讯台,P2p://ns1.hellotvvod.com:9906/f6de0031c13847db913b0c89c55cfadd
-HKC 18,P2p://ns1.hellotvvod.com:9906/01468cb56cb4490eaec43acc732a0403
-HKC 603,P2p://ns1.hellotvvod.com:9906/be1b98abd39c4df3bd65dbf46054a27a
-HKC體育台,P2p://ns1.hellotvvod.com:9906/65074314730a4fdd99b1c30a3b37539b
-HKC Sports Plus 1,P2p://ns1.hellotvvod.com:9906/8976e105848241b6b3f69ab54818947c
-HKC综合娱乐台,P2p://ns1.hellotvvod.com:9906/5719826a53974fd2b83c0fb250495f8a
-TVB娱乐新闻台,P2p://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
-翡翠台,P2p://ns1.hellotvvod.com:9906/d90b51f967934f94a321babdd5b1bfd0
-TVB经典台,P2p://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
-Thrill,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
-明珠台,P2p://ns1.hellotvvod.com:9906/f67e007a5c594dc1b66829615d4bb8e3
-18台,P2p://ns1.hellotvvod.com:9906/8dd46bc762274253a9eb6083af2db37b
-爆谷星影台,P2p://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
-美亚电影台(粤语),P2p://ns1.hellotvvod.com:9906/6260802bc14243bd98a9c0be6e349725
-Hands Up,P2p://ns1.hellotvvod.com:9906/deab003089244038bcff853c11f9806e
-粤语片台,P2p://ns1.hellotvvod.com:9906/06395cb1f1104e668afc72f24f0641fe
-亚洲剧台,P2p://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
-功夫台,P2p://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
-爆谷台,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
-🎑宝盒电影,#genre#
-CCTV6,P2p://ns1.hellotvvod.com:9906/12cbd1f4ae6145baace7a055fd1f7b20
-天映频道,P2p://ns1.hellotvvod.com:9906/4e8ab40b90c2435997c24c1cfb13e05e
-天映经典,P2p://ns1.hellotvvod.com:9906/470cd03d80584abaa000dc201604ca27
-tvN Movies HD,P2p://ns1.hellotvvod.com:9906/9b3ba26f523643acb722559371c793fa
-HKC电影台,P2p://ns1.hellotvvod.com:9906/3c0eb2fd7f0c4c8ea4c2ab55408bb52f
-凤凰电影台,P2p://ns1.hellotvvod.com:9906/6230f02461f848aa90f08ba6fd8b2a8f
-卫视电影台,P2p://ns1.hellotvvod.com:9906/957901fc9a254dbb91227829d9b995c7
-东森电影台,P2p://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
-纬来电影台,P2p://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
-龙祥电影,P2p://ns1.hellotvvod.com:9906/85ea4346fcd441d99a3f06bbe0491f62
-HBO,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
-东森洋片台,P2p://ns1.hellotvvod.com:9906/186ead8f2f664bebba3dea7945a8b1e2
-AXN,P2p://ns1.hellotvvod.com:9906/3d43beba53b54131ad10b2f8a02d3f47
-好莱坞电影台,P2p://ns1.hellotvvod.com:9906/fd41404f169f4a41886551ca8fc022cc
-CINEMAX,P2p://ns1.hellotvvod.com:9906/8ef5dc97e25645be8d4e303cb84b15e1
-纬来育乐台,P2p://ns1.hellotvvod.com:9906/081ded65dfb345cb993f1d63b454341e
-HBO强档巨献,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
-HBO原创巨献,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
-美亚电影台HD,P2p://ns1.hellotvvod.com:9906/5bcc6ad3465c48d2b9ca0fee348095fc
-龙华电影,P2p://ns1.hellotvvod.com:9906/5eae0178be844ea9b1df4e8764bb9fd9
-星卫HD电影台,P2p://ns1.hellotvvod.com:9906/954d7884e53743c1b086dabec700f77f
-靖天映画,P2p://ns1.hellotvvod.com:9906/a34a42ed14174770b0c9e38248b74fe7
-靖天电影台,P2p://ns1.hellotvvod.com:9906/67ebfadc889a4e6d921a3dac4c60a13e
-WARNER TV,P2p://ns1.hellotvvod.com:9906/4a07915cd04545bc822639cc203446a6
-Star Movies HD,P2p://ns1.hellotvvod.com:9906/193db37396de436fac5c57fcb5314978
-AMC最爱电影,P2p://ns1.hellotvvod.com:9906/e09586d5be6844b1844aad833297dd40
-HBO Family,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
-CatchPlay电影台,P2p://ns1.hellotvvod.com:9906/62c7b91ecaba4ff7b6413f1d3016d11a
-CinemaWorld,P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
-壹电视电影台,P2p://ns1.hellotvvod.com:9906/7a746efb886845d0aa5be759581bd440
-采昌影剧台,P2p://ns1.hellotvvod.com:9906/f79e88a824034e0d9619d01cd6589945
-BOO,P2p://ns1.hellotvvod.com:9906/432be11f4eac4e238d2cd25d64c165c9
-Thrill,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
-爆谷星影台,P2p://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
-HITS Movies,P2p://ns1.hellotvvod.com:9906/a598c973264e4cb7939b7e0f335cb027
-SHOWCASE MOVIES,P2p://ns1.hellotvvod.com:9906/75c18dc987de4060bb992f13a21af8e2
-影迷数位电影台,P2p://ns1.hellotvvod.com:9906/645c997ba91c492babe0f56dfba3853b
-美亚电影台(粤语),P2p://ns1.hellotvvod.com:9906/6260802bc14243bd98a9c0be6e349725
-爆谷台,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
+CNN,mitv://ns1.hellotvvod.com:9906/c56788021f354bea8aa18c8b7a0a6911
+民视,mitv://ns1.hellotvvod.com:9906/c6d5f658f7824308b86874bf0ce8b985
+人间卫视,mitv://ns1.hellotvvod.com:9906/fad2e47febcc4d729155b6241ada6f26
+台视,mitv://ns1.hellotvvod.com:9906/faeb85adb60e47beae1004db750ed948
+大爱,mitv://ns1.hellotvvod.com:9906/2e0d28866523431bb5bab0d3735c5327
+中视,mitv://ns1.hellotvvod.com:9906/d9e4a2f5769f4933b77c4872c0ca65dd
+霹雳台湾台,mitv://ns1.hellotvvod.com:9906/472f71fd8b62488b847d625f87d4d2ae
+华视,mitv://ns1.hellotvvod.com:9906/6bd2acd5e7c6471b82f855a38d3a35b8
+公视,mitv://ns1.hellotvvod.com:9906/0eee883395d94a34baa53f16b6c58da1
+好消息,mitv://ns1.hellotvvod.com:9906/b16b6585b0b646ce8fdab8042aaffe54
+原住民电视台,mitv://ns1.hellotvvod.com:9906/d4ecbab902a44815bc809818acd245db
+客家电视台,mitv://ns1.hellotvvod.com:9906/35ebe91bed6345ad924d4a6c24244064
+国家地理频道,mitv://ns1.hellotvvod.com:9906/2a94dd88b18e4686859c31c5e85d5d81
+探索频道,mitv://ns1.hellotvvod.com:9906/f8a124b30d5043ccaa94cad13a70263e
+TLC旅游生活,mitv://ns1.hellotvvod.com:9906/6e3f2be9c801478b8cb84ea2dceb33d7
+动物星球,mitv://ns1.hellotvvod.com:9906/15f301e324bd4c4a870a31bfc294943e
+CN卡通频道,mitv://ns1.hellotvvod.com:9906/1b03d08661a7400ea8634831cb29f113
+MOMO亲子台,mitv://ns1.hellotvvod.com:9906/1669fd7ee8bb4bc29dcfb398019ddd35
+东森幼幼台,mitv://ns1.hellotvvod.com:9906/f2c9241a29ad443cba3030f80bad237b
+纬来综合台,mitv://ns1.hellotvvod.com:9906/7ea8c3b52fa0480b9b6e0e3c8c308b81
+八大第一台,mitv://ns1.hellotvvod.com:9906/997e823f9bb94493afd61f3c8a03d294
+八大综合台,mitv://ns1.hellotvvod.com:9906/58e219541c8a4bfdbba8a15e556e7926
+三立台湾台,mitv://ns1.hellotvvod.com:9906/4577f1e649e54a43a0cc311f178a51ef
+三立都会台,mitv://ns1.hellotvvod.com:9906/b51749a0284649169d48cefe5a70691d
+东森综合台,mitv://ns1.hellotvvod.com:9906/4434c945e3134ede8644c8ca262553ed
+超视,mitv://ns1.hellotvvod.com:9906/0b494396d7d34be989abdc5ef92879af
+中天综合台,mitv://ns1.hellotvvod.com:9906/c82b75a59b264bd0bec069ca00e72114
+中天娱乐台,mitv://ns1.hellotvvod.com:9906/ae167570b2ac4c5f8ce5ddc06098e030
+东森戏剧台,mitv://ns1.hellotvvod.com:9906/c15954b10823454483e6eac61f4d4de5
+八大戏剧台,mitv://ns1.hellotvvod.com:9906/974a7681274a4db0ab8da87a594de26c
+TVBS欢乐台,mitv://ns1.hellotvvod.com:9906/d696e73f3c4c4436b70a6d3688406931
+纬来戏剧台,mitv://ns1.hellotvvod.com:9906/9fcb3be95a8044f6918b2d2e1439ab5b
+高点综合台,mitv://ns1.hellotvvod.com:9906/59e4b4a48e00470f84a980b62f5ff7ca
+BBC World News,mitv://ns1.hellotvvod.com:9906/4071056fdb714b358886b3ab96eda9d6
+Al Jazeera English,mitv://ns1.hellotvvod.com:9906/c9873e47ba724fb793572c364fa142ff
+CNBC,mitv://ns1.hellotvvod.com:9906/6f5df8418309470cbfdecbfb014c946d
+Bloomberg TV,mitv://ns1.hellotvvod.com:9906/9a4fc41df8974e30a39c19ed0311a13d
+HITS,mitv://ns1.hellotvvod.com:9906/d9e2800fdfa64e499393e5e536cfe0ff
+壹电视新闻台,mitv://ns1.hellotvvod.com:9906/9a6ddadd47204e4a9516e3263c1ea916
+年代新闻,mitv://ns1.hellotvvod.com:9906/4da42cc526594a1cb29d02834f3f4f87
+东森新闻台,mitv://ns1.hellotvvod.com:9906/9404699feaa0449ba83ee51cca2e6a9a
+中天新闻台,mitv://ns1.hellotvvod.com:9906/29867986be1b4b9996a3ebb505303342
+民视新闻台,mitv://ns1.hellotvvod.com:9906/a31219be482c4cd0b55c59a41c038055
+三立新闻台,mitv://ns1.hellotvvod.com:9906/9dd9ecdb924b4918a09fa16755890321
+TVBS新闻台,mitv://ns1.hellotvvod.com:9906/2d6af7c92e894e2f996dd2e93a5936cd
+TVBS,mitv://ns1.hellotvvod.com:9906/86c356d445224ebb9d0dc1987e60724b
+东森财经新闻台,mitv://ns1.hellotvvod.com:9906/0440631946294e80ae0ded0cf7379169
+非凡新闻台,mitv://ns1.hellotvvod.com:9906/a6c5edd4ccd54d67a0cd0012dcca3642
+卫视电影台,mitv://ns1.hellotvvod.com:9906/279dafdc559140f3bd38bf9db66d08e4
+东森电影台,mitv://ns1.hellotvvod.com:9906/4e4b10f26dc54b6fb6de01c8397f5fb7
+纬来电影台,mitv://ns1.hellotvvod.com:9906/db650b759f3a4d3197a32d76ba5a8408
+龙祥电影,mitv://ns1.hellotvvod.com:9906/54ab7734b3c647819ab650738d0ad918
+HBO,mitv://ns1.hellotvvod.com:9906/e00d8a81a4704aa69e36d053321f98c0
+东森洋片台,mitv://ns1.hellotvvod.com:9906/7fa872e8cba94b9faf9c31c6efca7345
+AXN,mitv://ns1.hellotvvod.com:9906/3532fa2541bf47feb0df3345892de942
+好莱坞电影台,mitv://ns1.hellotvvod.com:9906/86b0fcc06b5544af8620f881d9ba81f3
+CINEMAX,mitv://ns1.hellotvvod.com:9906/72742355524b4f52a09152767eaad28e
+纬来育乐台,mitv://ns1.hellotvvod.com:9906/1b6ff310cbe3447ea5cf7313a8145f36
+纬来体育台,mitv://ns1.hellotvvod.com:9906/43dc79adc80e43ca84420377eff49bb3
+ELEVEN体育1台,mitv://ns1.hellotvvod.com:9906/67af5f298b2f4cb49bd95f62f2895913
+纬来日本,mitv://ns1.hellotvvod.com:9906/81392f4653134487941113a9b789f9c9
+国兴卫视,mitv://ns1.hellotvvod.com:9906/88896ea651e34b58bc0637dc44bd1db7
+FOX,mitv://ns1.hellotvvod.com:9906/df7b8679e94c49068b2af06135bdefa3
+Z频道,mitv://ns1.hellotvvod.com:9906/3684fd2e8ac4431db82159966d582c28
+Animax,mitv://ns1.hellotvvod.com:9906/e347a33022ba4c5dbaa3850618a8240c
+尼克儿童频道,mitv://ns1.hellotvvod.com:9906/f968e8a9768247d0b3d65088617ce91d
+MTV,mitv://ns1.hellotvvod.com:9906/005491ff3e424afb82897a48889eaa41
+八大娱乐台,mitv://ns1.hellotvvod.com:9906/e2b764d4a0014d9f956ed8963e085cbc
+三立iNEWS,mitv://ns1.hellotvvod.com:9906/9b0d5698889f477cbd335346ae4de279
+龙华偶像,mitv://ns1.hellotvvod.com:9906/5403bed3c0204799ab78cc900d64467a
+Arirang,mitv://ns1.hellotvvod.com:9906/76202a098c7a42c090b3789e15d473f1
+tvN,mitv://ns1.hellotvvod.com:9906/fbdde390e1d14e88b71ebd81d8a63455
+DW,mitv://ns1.hellotvvod.com:9906/aedde15346944a9ead147d9d1a06630c
+France24,mitv://ns1.hellotvvod.com:9906/982eadf7726a4d0685080250ead05483
+非凡商业台,mitv://ns1.hellotvvod.com:9906/dd79152f54454ddbb7e9100bbe93f99d
+公视3台,mitv://ns1.hellotvvod.com:9906/39ba2c4aaecf48a98df0411dd5a6d983
+大爱2台,mitv://ns1.hellotvvod.com:9906/eb6b58e611374488824c9adce9652505
+ELTV生活英语台,mitv://ns1.hellotvvod.com:9906/0b253e9bb4724789ac0214205e77dff3
+靖洋卡通Nice Bingo,mitv://ns1.hellotvvod.com:9906/bdcb993b7bf145cdb4c5001953284220
+靖天卡通台,mitv://ns1.hellotvvod.com:9906/1627261f4046424f82ab5760b6998bc3
+达文西频道,mitv://ns1.hellotvvod.com:9906/1499614f8ca74c5da9b3d18cbf5b6bab
+Nick Jr.,mitv://ns1.hellotvvod.com:9906/60581724e38c4e33941db27c5df6e3d7
+国会频道1,mitv://ns1.hellotvvod.com:9906/e85910e2a9a347c1b17145423b2736c4
+国会频道2,mitv://ns1.hellotvvod.com:9906/995b7904f8e7482fb3b50232685d18c6
+MTV Live,mitv://ns1.hellotvvod.com:9906/6356869e2a1f4a45ad7ce9e8e549de6c
+Mezzo Live,mitv://ns1.hellotvvod.com:9906/07e35213b2e64b8cb08121df12fd842d
+CLASSICA 古典乐,mitv://ns1.hellotvvod.com:9906/a01691484dc6482bbe3feb5192aaf028
+CMusic,mitv://ns1.hellotvvod.com:9906/37763eb0a07f47648cf337be0ad24a48
+爱尔达体育1台(备),mitv://ns1.hellotvvod.com:9906/ed4874be5e13414f90f435cfb8d14482
+爱尔达体育2台(备),mitv://ns1.hellotvvod.com:9906/d8cd256ed9d14db986e19b2fec42e1af
+TRACE Sport Stars,mitv://ns1.hellotvvod.com:9906/39c2fef0ffa2438a8ceae0ea2982722a
+博斯高球,mitv://ns1.hellotvvod.com:9906/f10a448f62134a7ca5dac0a9c7788b69
+博斯高球二台,mitv://ns1.hellotvvod.com:9906/47e756097bd748148e38e454a11d4e0b
+博斯网球台,mitv://ns1.hellotvvod.com:9906/6b760e4b1c914013a41ccf3bcbcec3bc
+博斯魅力网,mitv://ns1.hellotvvod.com:9906/0a7ada314bea4be6aedd8b85022e33ac
+博斯无限台,mitv://ns1.hellotvvod.com:9906/48bbaa68d11e450d976c1d160e908fb9
+博斯无限二台,mitv://ns1.hellotvvod.com:9906/b89397ebffa84fc09b196554c36acc09
+博斯运动,mitv://ns1.hellotvvod.com:9906/7d5c01fcafa74ecb8cfc6ec1c4d7bc19
+ELEVEN体育2台,mitv://ns1.hellotvvod.com:9906/bcc50c274c10410683658cf277d655ba
+智林体育台,mitv://ns1.hellotvvod.com:9906/a84aa0a67fb644c7ae3c83e67b553b0e
+博斯运动二台,mitv://ns1.hellotvvod.com:9906/2f5c9fadcdc145cd8d64c85207f0a19b
+OUTDOOR,mitv://ns1.hellotvvod.com:9906/07ec20bb7d9e4c10ba494cab74d360a2
+HBO强档巨献,mitv://ns1.hellotvvod.com:9906/dd70d6a325ec4a1082b353b6f53258cc
+HBO原创巨献,mitv://ns1.hellotvvod.com:9906/d3bf145481c34f3698fc408352259570
+国家地理高画质野生频道,mitv://ns1.hellotvvod.com:9906/00fd812ced2345ec9a16761b3ece6397
+BBC Earth,mitv://ns1.hellotvvod.com:9906/98a56790f65048f3842044407127d43e
+Discovery Asia,mitv://ns1.hellotvvod.com:9906/a7a91c837bf64e63aa29aef5aa23320b
+Discovery科学频道,mitv://ns1.hellotvvod.com:9906/4a22410343684a4db5a7c751fe0285bc
+DMAX,mitv://ns1.hellotvvod.com:9906/a8ba9d374ef8468687ec238ebb387bd1
+EVE,mitv://ns1.hellotvvod.com:9906/042b9be6a48345809c786f64d5ae0c06
+HISTORY 2,mitv://ns1.hellotvvod.com:9906/399b212e1624464f87cbde774e010d9e
+历史频道,mitv://ns1.hellotvvod.com:9906/d0296e4a46ec41a88318900dca6cdaf1
+罪案侦缉频道,mitv://ns1.hellotvvod.com:9906/f2b5de9886a8452cbb5fb89169529bbf
+BBC Lifestyle,mitv://ns1.hellotvvod.com:9906/3daac05ef22949b7ba30289ac24edf50
+LUXE TV,mitv://ns1.hellotvvod.com:9906/7f362d8bb74e4764a734f74da83e881e
+Lifetime,mitv://ns1.hellotvvod.com:9906/73f64cbcfb17419bb41fa81f49cf5edf
+KLT-靖天国际台,mitv://ns1.hellotvvod.com:9906/5d06f79ff3924799acba211f21fced8e
+HGTV居家乐活频道,mitv://ns1.hellotvvod.com:9906/362a043d699e445480f6c42fadbee0ee
+Love Nature by 餃子,mitv://ns1.hellotvvod.com:9906/86795aaab7a3446f9213668e0d75565e
+美食星球,mitv://ns1.hellotvvod.com:9906/f20da38dc7cd4ad18d95709356d136aa
+亚洲美食频道,mitv://ns1.hellotvvod.com:9906/d94ca5c299d84c0fbce6ad00f74086da
+亚洲旅游台,mitv://ns1.hellotvvod.com:9906/46bafd9d083243669b233aff3de94f19
+EYE TV旅游台,mitv://ns1.hellotvvod.com:9906/ffc7a88eea314c9eb3e0dbf5a65c85cf
+时尚频道,mitv://ns1.hellotvvod.com:9906/5c1709f77db24428b0562bca00e5ff67
+好消息2台,mitv://ns1.hellotvvod.com:9906/f8d56110a4d54e2da60c4b856921785f
+三立综合台,mitv://ns1.hellotvvod.com:9906/df6cbe3d7e904424ac9ef46dcc94a023
+靖天资讯台,mitv://ns1.hellotvvod.com:9906/64003409c186461f9c1da7491ff3bf46
+靖天综合台,mitv://ns1.hellotvvod.com:9906/b82512241a4b489aa19b766e41906d8a
+靖天育乐台,mitv://ns1.hellotvvod.com:9906/271b52309f714618a0f849cd41213e82
+中视经典台,mitv://ns1.hellotvvod.com:9906/070b3ef9ec494d84bd6cdccd722c1e24
+中视菁采台,mitv://ns1.hellotvvod.com:9906/4aed1110af4146b7af73b2e54da90f84
+TVBS精采台,mitv://ns1.hellotvvod.com:9906/9d8550512d3546f68048fa3269fe9656
+壹电视综合,mitv://ns1.hellotvvod.com:9906/2a8e856559024435acdb88a63ffd0bb6
+纬来精采,mitv://ns1.hellotvvod.com:9906/0b1c1fb4453345d2b89fc275db98eb6e
+ETtoday综合台,mitv://ns1.hellotvvod.com:9906/c7de1cbdb14b4ea9a6a036c329079cae
+民视第一台,mitv://ns1.hellotvvod.com:9906/50c21212fbec48bdafa8eb56d3d1d5aa
+民视台湾台,mitv://ns1.hellotvvod.com:9906/7ed1db8136d4427d9bbe3064b36d178d
+Nice TV靖天欢乐台,mitv://ns1.hellotvvod.com:9906/1bb2e85186e34ab8986bd398cfc577cf
+八大优频道,mitv://ns1.hellotvvod.com:9906/191bdac5340c450fa157812021a93605
+三立戏剧台,mitv://ns1.hellotvvod.com:9906/00efff5cbf884ed0995ad00b7f29ade9
+龙华戏剧,mitv://ns1.hellotvvod.com:9906/d4c1b2ed960c436a9e2d3da55ed9fa9a
+靖天戏剧台,mitv://ns1.hellotvvod.com:9906/568e958070aa4a3ea9f7725865712699
+靖洋戏剧台,mitv://ns1.hellotvvod.com:9906/2e073900350e459eb38f05c8239786b1
+靖天日本台,mitv://ns1.hellotvvod.com:9906/074f86638a074128910f16618b1f2e58
+i-Fun动漫台,mitv://ns1.hellotvvod.com:9906/6149eab7b1794ae0bd11264d9108bc0d
+韩国娱乐台,mitv://ns1.hellotvvod.com:9906/64a2477a7bb3447391ca1d1d22140177
+星卫娱乐台,mitv://ns1.hellotvvod.com:9906/28dc408d3205473b8a94e0d86f68f379
+ROCK Extreme,mitv://ns1.hellotvvod.com:9906/aa93b1f766274c06a4c59f27d94ccf7f
+中视新闻台,mitv://ns1.hellotvvod.com:9906/222f9333b8a7487b909517a3f08795d7
+寰宇新闻台,mitv://ns1.hellotvvod.com:9906/5782512b0f9c4571b673316e3d231edf
+华视新闻,mitv://ns1.hellotvvod.com:9906/3bb5779a992e4714abd898b0b6b579bc
+NHK新闻资讯台,mitv://ns1.hellotvvod.com:9906/26fad9db3c5e4528a764af280f6c5f28
+美亚电影台HD,mitv://ns1.hellotvvod.com:9906/54aad15392504f0a930098713599290e
+龙华电影,mitv://ns1.hellotvvod.com:9906/cab94f0e4bc648d8b5a493c6f2c4f6d5
+星卫HD电影台,mitv://ns1.hellotvvod.com:9906/9ab4ce1e50924f0eb888b6f5eb96e78e
+靖天映画,mitv://ns1.hellotvvod.com:9906/3f5a8cf3904f4781a4d8552c87a91bf4
+靖天电影台,mitv://ns1.hellotvvod.com:9906/4b195d93f649432482cbeab3dd031f85
+WARNER TV,mitv://ns1.hellotvvod.com:9906/70a179cb46764061b038e7435b4128b0
+Star Movies HD,mitv://ns1.hellotvvod.com:9906/3e14148f7bda44bead4e7bdc33374d89
+AMC最爱电影,mitv://ns1.hellotvvod.com:9906/4b1513ea3089415584117a654904dcda
+HBO Family,mitv://ns1.hellotvvod.com:9906/e2d6d1b9650148bb8da614826c465d0b
+CatchPlay电影台,mitv://ns1.hellotvvod.com:9906/5c8833b0f48141748659b8d742c4a89f
+CinemaWorld,mitv://ns1.hellotvvod.com:9906/6fc0d062c3914edfa7df5de4d398b940
+壹电视电影台,mitv://ns1.hellotvvod.com:9906/c80a4021530b43339f67efb884232e5d
+采昌影剧台,mitv://ns1.hellotvvod.com:9906/55f27cb3e56046158d55bc334bf53ee3
+佛卫慈悲台,mitv://ns1.hellotvvod.com:9906/9798a77f625041238158ee6606787e3a
+TV5Monde,mitv://ns1.hellotvvod.com:9906/938b53e50b934c029351ade50ee17330
+Cbeebies,mitv://ns1.hellotvvod.com:9906/dc3a4b5f936f4230889debfd4ef5ee1e
+EYE TV戏剧台,mitv://ns1.hellotvvod.com:9906/2e860ef68820444db097e60545899a9a
+台视新闻台,mitv://ns1.hellotvvod.com:9906/261e48728ca64199b0520a591ae36271
+寰宇新闻台湾台,mitv://ns1.hellotvvod.com:9906/9ef72a0e2ae04e4f817af22ad0c49d19
+台视财经台,mitv://ns1.hellotvvod.com:9906/a1727c4edb7a42bca91adda2335738af
+纬来日本(备),mitv://ns1.hellotvvod.com:9906/71d80e1e907c417d85118d3d3884ced9
+爱尔达影剧台,mitv://ns1.hellotvvod.com:9906/4629ad056d754b228d4042c5f88ebcce
+ROCK Entertainment,mitv://ns1.hellotvvod.com:9906/3a3632d4b700468ab0fb0593d5eb9cc9
+民视(备),mitv://ns1.hellotvvod.com:9906/7bad960bb1294d109e5c7ed753f84606
+三立台湾台(备),mitv://ns1.hellotvvod.com:9906/8f733c71eedf4713b0f7c2557ad85735
+Dreamworks,mitv://ns1.hellotvvod.com:9906/059613bb9ce74f618dda786f48b948f6
+TV5MONDE Style 生活时尚,mitv://ns1.hellotvvod.com:9906/f01800014c7740858c0d68ed51d2049a
+Travel Channel,mitv://ns1.hellotvvod.com:9906/ce4a2096dcf64176a40f689f122cbc52
+影迷数位电影台,mitv://ns1.hellotvvod.com:9906/68c0769f974746ec958401a2e99442ae
+卫视中文台,mitv://ns1.hellotvvod.com:9906/8d55141556f34650a69087bb75475e62
+爱尔达体育1台,mitv://ns1.hellotvvod.com:9906/9729b64c76dc467aab7f3e9bdffb033a
+爱尔达体育2台,mitv://ns1.hellotvvod.com:9906/4bcd35efc0344be89e7afb233f55cef1
+爱尔达体育3台,mitv://ns1.hellotvvod.com:9906/a2919e8f20bd43ffb198cd3997cb584b
+台视(备),mitv://ns1.hellotvvod.com:9906/dd99698500a44d4898de16cd27bd6244
+大爱(备),mitv://ns1.hellotvvod.com:9906/b2edcd9c236f4922806b6724ccccc8dd
+中视(备),mitv://ns1.hellotvvod.com:9906/5bcc648d38c440d9a06c58eb4f6e6695
+华视(备),mitv://ns1.hellotvvod.com:9906/8bb3176431184a1a8ac4fe1b55c8e65c
+公视(备),mitv://ns1.hellotvvod.com:9906/a7ae4311b26f45a1ba56e6e7101472bd
+东森新闻台(备),mitv://ns1.hellotvvod.com:9906/f8069eb9006b4a22bd29868593b273d6
+镜新闻,mitv://ns1.hellotvvod.com:9906/410d5d862ccf45ac81472a63023bf46b
 
+
+
+
+
+
+
+
+
+
+
+🎑宝盒港澳,#genre#
+港台電視31,mitv://ns1.hellotvvod.com:9906/09905397dc284641a6f61a4f65da1ab4
+港台电视32,mitv://ns1.hellotvvod.com:9906/53ea877b03164d1bba002ca91746b582
+香港开电视,mitv://ns1.hellotvvod.com:9906/88b61cb8268a457da342d4c9f4a4e248
+﻿翡翠台(备),mitv://ns1.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
+J2,mitv://ns1.hellotvvod.com:9906/856847927ad24993bd85674c69158cea
+无线新闻台(备),mitv://ns1.hellotvvod.com:9906/e7aa40a6773e405ab617fe695de7c87a
+无线新闻台,mitv://ns1.hellotvvod.com:9906/0405e7c36c1f4545991a229902325af4
+无线财经·资讯台,mitv://ns1.hellotvvod.com:9906/7aec03f02d98497aae2be7d2ceb96c0c
+ViuTVsix,mitv://ns1.hellotvvod.com:9906/61dba91162ce40afb4d59841f43b76ff
+ViuTV,mitv://ns1.hellotvvod.com:9906/b03a71eb399a4ffdba25ca688b5e06b4
+凤凰中文台,mitv://ns1.hellotvvod.com:9906/168b2d7f82744783986eca64aec0839a
+凤凰资讯台,mitv://ns1.hellotvvod.com:9906/3cd677df9d57453aad7a3ce0a81cb934
+凤凰香港台,mitv://ns1.hellotvvod.com:9906/8ec82663036948ef8cc3a7e9177d3ab0
+TVB星河(粤),mitv://ns1.hellotvvod.com:9906/359136d162ff4e37a6d536849180905b
+阳光卫视,mitv://ns1.hellotvvod.com:9906/8a548b4df74e4173b4a4aef401d2b94c
+澳门-MACAU,mitv://ns1.hellotvvod.com:9906/5463b028e38844049c7939a8c408c510
+澳门莲花,mitv://ns1.hellotvvod.com:9906/cc7d50dea1f444ddb2694ad57ec3dacb
+now新闻台,mitv://ns1.hellotvvod.com:9906/5b974a1b9ce24bd39fd05db872ae4281
+now直播台,mitv://ns1.hellotvvod.com:9906/c4cbe143a9e4405596cd34b297fe9f68
+HKC电影台,mitv://ns1.hellotvvod.com:9906/ccce5c8ff2f443398997475b3dd32460
+凤凰电影台,mitv://ns1.hellotvvod.com:9906/14d7dd09d36440aea87f5092200de8c4
+HKC新闻台,mitv://ns1.hellotvvod.com:9906/97e9dde92241459aacf61ec995665d9e
+HKC财经资讯台,mitv://ns1.hellotvvod.com:9906/8baa472bd79847528f2018dba52a474e
+HKC 18,mitv://ns1.hellotvvod.com:9906/39a96a23c69646f99c6268fb44e6ae23
+HKC 603,mitv://ns1.hellotvvod.com:9906/aab20788a25a4e09ab4b849e6f1e48a1
+HKC體育台,mitv://ns1.hellotvvod.com:9906/5774eef5293f49a8a6a21851f850f1d0
+HKC Sports Plus 1,mitv://ns1.hellotvvod.com:9906/2c5ba84f4ded49ba97f9cdfd70fe551d
+HKC综合娱乐台,mitv://ns1.hellotvvod.com:9906/b6c06f9b5e50484d93091080fbf04bce
+TVB娱乐新闻台,mitv://ns1.hellotvvod.com:9906/7f97abfd476f4e10bb2754ff5704defa
+翡翠台,mitv://ns1.hellotvvod.com:9906/30730976f9d14faab393a5b4685c3e28
+TVB经典台,mitv://ns1.hellotvvod.com:9906/43166f99f4e24557a49165f0ded2aaac
+Thrill,mitv://ns1.hellotvvod.com:9906/1c4875511a1f4cb1878be9976149d452
+明珠台,mitv://ns1.hellotvvod.com:9906/23894c78bd2f480b907aae7d79020220
+18台,mitv://ns1.hellotvvod.com:9906/3f9ed5c0e81244ea9495bee5732a9e23
+爆谷星影台,mitv://ns1.hellotvvod.com:9906/7b63e2da61ab40a38fe2c365025fdf04
+美亚电影台(粤语),mitv://ns1.hellotvvod.com:9906/717fa19bd33d4ddeba626fbfa007ef0e
+Hands Up,mitv://ns1.hellotvvod.com:9906/8f5d852159084f81b998c0768d469dbd
+粤语片台,mitv://ns1.hellotvvod.com:9906/d3ca79476520481fa4cc8d770116aa77
+亚洲剧台,mitv://ns1.hellotvvod.com:9906/23aaa49ea7154370933b705b351b676a
+功夫台,mitv://ns1.hellotvvod.com:9906/422ca4af6de940a49c47aae066ab9eec
+爆谷台,mitv://ns1.hellotvvod.com:9906/fac0842740b84a6eae1c44019e810426
+🎑宝盒电影,#genre#
+天映频道,mitv://ns1.hellotvvod.com:9906/5d1424110dae4fb0a35fe38e65a30dc8
+天映经典,mitv://ns1.hellotvvod.com:9906/dc4f787accc5467aae371d6c9edff168
+tvN Movies HD,mitv://ns1.hellotvvod.com:9906/91bf08011ac0427bb97dfeac161d54a0
+HKC电影台,mitv://ns1.hellotvvod.com:9906/ccce5c8ff2f443398997475b3dd32460
+凤凰电影台,mitv://ns1.hellotvvod.com:9906/14d7dd09d36440aea87f5092200de8c4
+卫视电影台,mitv://ns1.hellotvvod.com:9906/279dafdc559140f3bd38bf9db66d08e4
+东森电影台,mitv://ns1.hellotvvod.com:9906/4e4b10f26dc54b6fb6de01c8397f5fb7
+纬来电影台,mitv://ns1.hellotvvod.com:9906/db650b759f3a4d3197a32d76ba5a8408
+龙祥电影,mitv://ns1.hellotvvod.com:9906/54ab7734b3c647819ab650738d0ad918
+HBO,mitv://ns1.hellotvvod.com:9906/e00d8a81a4704aa69e36d053321f98c0
+东森洋片台,mitv://ns1.hellotvvod.com:9906/7fa872e8cba94b9faf9c31c6efca7345
+AXN,mitv://ns1.hellotvvod.com:9906/3532fa2541bf47feb0df3345892de942
+好莱坞电影台,mitv://ns1.hellotvvod.com:9906/86b0fcc06b5544af8620f881d9ba81f3
+CINEMAX,mitv://ns1.hellotvvod.com:9906/72742355524b4f52a09152767eaad28e
+纬来育乐台,mitv://ns1.hellotvvod.com:9906/1b6ff310cbe3447ea5cf7313a8145f36
+HBO强档巨献,mitv://ns1.hellotvvod.com:9906/dd70d6a325ec4a1082b353b6f53258cc
+HBO原创巨献,mitv://ns1.hellotvvod.com:9906/d3bf145481c34f3698fc408352259570
+美亚电影台HD,mitv://ns1.hellotvvod.com:9906/54aad15392504f0a930098713599290e
+龙华电影,mitv://ns1.hellotvvod.com:9906/cab94f0e4bc648d8b5a493c6f2c4f6d5
+星卫HD电影台,mitv://ns1.hellotvvod.com:9906/9ab4ce1e50924f0eb888b6f5eb96e78e
+靖天映画,mitv://ns1.hellotvvod.com:9906/3f5a8cf3904f4781a4d8552c87a91bf4
+靖天电影台,mitv://ns1.hellotvvod.com:9906/4b195d93f649432482cbeab3dd031f85
+WARNER TV,mitv://ns1.hellotvvod.com:9906/70a179cb46764061b038e7435b4128b0
+Star Movies HD,mitv://ns1.hellotvvod.com:9906/3e14148f7bda44bead4e7bdc33374d89
+AMC最爱电影,mitv://ns1.hellotvvod.com:9906/4b1513ea3089415584117a654904dcda
+HBO Family,mitv://ns1.hellotvvod.com:9906/e2d6d1b9650148bb8da614826c465d0b
+CatchPlay电影台,mitv://ns1.hellotvvod.com:9906/5c8833b0f48141748659b8d742c4a89f
+CinemaWorld,mitv://ns1.hellotvvod.com:9906/6fc0d062c3914edfa7df5de4d398b940
+壹电视电影台,mitv://ns1.hellotvvod.com:9906/c80a4021530b43339f67efb884232e5d
+采昌影剧台,mitv://ns1.hellotvvod.com:9906/55f27cb3e56046158d55bc334bf53ee3
+BOO,mitv://ns1.hellotvvod.com:9906/09b4003442d2410ba666f23c22fe7009
+Thrill,mitv://ns1.hellotvvod.com:9906/1c4875511a1f4cb1878be9976149d452
+爆谷星影台,mitv://ns1.hellotvvod.com:9906/7b63e2da61ab40a38fe2c365025fdf04
+HITS Movies,mitv://ns1.hellotvvod.com:9906/f05cfbf000b34ce9a51e372bc117a032
+SHOWCASE MOVIES,mitv://ns1.hellotvvod.com:9906/d40a36ea1b3a4ecea078e14d7db459a0
+影迷数位电影台,mitv://ns1.hellotvvod.com:9906/68c0769f974746ec958401a2e99442ae
+美亚电影台(粤语),mitv://ns1.hellotvvod.com:9906/717fa19bd33d4ddeba626fbfa007ef0e
+爆谷台,mitv://ns1.hellotvvod.com:9906/fac0842740b84a6eae1c44019e810426
+🎑宝盒戏剧,#genre#
+东森戏剧台,mitv://ns1.hellotvvod.com:9906/c15954b10823454483e6eac61f4d4de5
+八大戏剧台,mitv://ns1.hellotvvod.com:9906/974a7681274a4db0ab8da87a594de26c
+纬来戏剧台,mitv://ns1.hellotvvod.com:9906/9fcb3be95a8044f6918b2d2e1439ab5b
+三立戏剧台,mitv://ns1.hellotvvod.com:9906/00efff5cbf884ed0995ad00b7f29ade9
+龙华戏剧,mitv://ns1.hellotvvod.com:9906/d4c1b2ed960c436a9e2d3da55ed9fa9a
+靖天戏剧台,mitv://ns1.hellotvvod.com:9906/568e958070aa4a3ea9f7725865712699
+靖洋戏剧台,mitv://ns1.hellotvvod.com:9906/2e073900350e459eb38f05c8239786b1
+EYE TV戏剧台,mitv://ns1.hellotvvod.com:9906/2e860ef68820444db097e60545899a9a
+爱尔达影剧台,mitv://ns1.hellotvvod.com:9906/4629ad056d754b228d4042c5f88ebcce
+亚洲剧台,mitv://ns1.hellotvvod.com:9906/23aaa49ea7154370933b705b351b676a
 🎈央视高清,#genre#
 CCTV1,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226118/iptv65795.smil
 CCTV2,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil

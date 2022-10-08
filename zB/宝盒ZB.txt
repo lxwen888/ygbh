@@ -129,6 +129,16 @@ TVB星河,http://27.47.71.97:808/hls/35/index.m3u8
 东森电影,http://27.47.71.97:808/hls/58/index.m3u8
 东森洋片,http://27.47.71.97:808/hls/59/index.m3u8
 翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
+东森财经新闻,rtmp://59.124.75.150/sat/tv571
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=81
+东森财经新闻,rtmp://59.124.75.138/sat/tv571
+华视,rtmp://59.124.75.150/sat/tv111
+民视,rtmp://59.124.75.150/sat/tv051
+纬来体育,rtmp://59.124.75.150/sat/tv721
+纬来育乐,rtmp://59.124.75.150/sat/tv701
+纬来育乐,rtmp://59.124.75.138/sat/tv701
+
 粤语残片,https://cn-hbyc-ct-02-16.bilivideo.com/live-bvc/612123/live_88547185_8335137/index.m3u8
 🎑宝盒台湾,#genre#
 CNN,mitv://ns1.hellotvvod.com:9906/c56788021f354bea8aa18c8b7a0a6911

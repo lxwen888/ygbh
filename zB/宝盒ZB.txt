@@ -1,10 +1,3 @@
-🎉国庆快乐,#genre#
-月光宝盒,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-祝各位,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
-国庆快乐,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
-开开心心,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-健健康康,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
-幸福永远,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
 
 💞月光宝盒BOX,#genre#
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -660,31 +653,9 @@ MAX极速汽车,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226683/1000010000
 CCTV16,P2p://ns1.hellotvvod.com:9906/d5e1e5f3c1794a28984f903e4c510cab
 广东影院,P2p://ns1.hellotvvod.com:9906/9e9ef6a3533b4cc08f817fcf679a3181
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 💝4K台,#genre#
 CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-
-CCTV-8K,http://hms2864nc1972666629.live.aikan.miguvideo.com/wh7f454c46tw1282884058_649677011/PLTV/88888888/224/3221233413/index.m3u8?icpid=88888888&RTS=1644909332&from=12&hms_devid=2864&online=1644909332EQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO+75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY/1XkpmVDXg:20220202020202,id=01
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8

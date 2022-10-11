@@ -1,0 +1,30 @@
+{
+    "api":[ 
+        {"key":"月光宝盒Max线路〔点我切换〕","name":"月光宝盒9.9.9MAX版","ext":"月光宝盒MAX","date":"" },
+        {"key":"选择1","name":"请选择线路","ext":"/","date":" "}, 
+        {"key":"选择","name":"↓↓↓↓↓↓↓↓↓↓↓","ext":"/","date":" "},  
+        {"key":"月光宝盒","name":"🌙月光宝盒线路〔纯绿推荐线路〕","ext":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","date":"宝盒推荐线路，持续维护"},              
+        {"key":"刚刚","name":"💖刚刚〔多条线路〕","ext":"http://刚刚.live/猫","date":"刚刚线路，持续维护" },
+        {"key":"哔哩哔哩","name":"🅱️哔哩套餐","ext":"http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0","date":"哔哩套餐，持续维护" },       
+        {"key":"甜蜜","name":"🧗‍♀️甜蜜〔多条线路〕","ext":"https://kebedd69.github.io/TVbox-interface/%E7%94%9C%E8%9C%9C.json","date":"甜蜜线路，持续维护"},
+         {"key":"阿里","name":"📀T4网盘线路（仅搜索）","ext":"http://52bsj.vip:81/api/v3/file/get/45055/alist.json?sign=5hJ60J-4XMmtamakqYzTiaX_8-1vwxpGeN0WcRVDsh8%3D%3A0","date":"网盘线路，持续维护" },
+        {"key":"小苹果","name":"🍎小苹果线路1〔多条线路〕","ext":"https://share.nite07.com/api/v3/file/source/20889/boxzy.json?sign=4zM1VDZ3fmEr6yQAsULp_PMzzyLguYN9wKwDP5Bq4hY%3D%3A0","date":"小苹果nite线路，持续维护"}, 
+        {"key":"小苹果2","name":"🍎小苹果线路2〔多条线路〕","ext":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json","date":"小苹果agit线路，持续维护"}, 
+        {"key":"云星家庭","name":"☁️云星家庭〔家庭版〕","ext":"http://maoyingshi.cc/tvbox/云星日记/1.m3u8","date":"云星线路，持续维护" },
+        {"key":"️太阳","name":"☀️太阳〔XBXP爬虫线路〕","ext":"http://miaotvs.cn/osc","date":"太阳线路，持续维护" },
+        {"key":"神器推送","name":"🎄神器推送〔多条线路〕","ext":"https://神器每日推送.tk/pz.json","date":"神器推送线路，持续维护"},
+        {"key":"老刘备","name":"🍸老刘备〔多条线路〕","ext":"https://raw.iqiq.io/liu673cn/box/main/m.json","date":"刘备线路，持续维护"},           
+        {"key":"白嫖","name":"💨白嫖线路〔多条线路〕","ext":"http://js.134584.xyz/json/pp87.json","date":"白嫖线路，持续维护"},        
+        {"key":"兽爪","name":"🐾兽爪线路〔多条线路〕","ext":"http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0","date":"兽爪线路，持续维护"},        
+        
+        {"key":"乱世","name":"🧗‍♀️乱世〔多条线路〕","ext":"http://www.dmtv.ml/mao/single.json","date":"乱世线路，持续维护"},        
+               
+        
+                   
+                                                                               
+        {"key":"空格2","name":"月光宝盒祝大家","ext":"/","date":"  "},        
+        {"key":"新增","name":"身体健康，万事如意","ext":"/","date":"  "},        
+        {"key":"新增2","name":"如有线路失效，切换其他有效线路","ext":"/","date":"  "}        
+                                         
+             ]
+    }

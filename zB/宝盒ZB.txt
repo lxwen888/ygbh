@@ -5,9 +5,8 @@
 后台回复,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 
 直播,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-下载,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
-最新版,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
- 
+下载最新版,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+
 💞港澳测试,#genre#
 千禧经典台,http://206.221.176.47:64002
 SKY SPROTS,http://206.221.176.47:64003
